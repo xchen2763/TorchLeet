@@ -28,9 +28,11 @@ pip install -r requirements.txt
 ### 4. Verify
 Compare your implementation with solutions/q001_solution.py for correctness.
 
+**Happy Learning! 🚀**
+
 ## Question Set
 
-## Easy
+### Easy
 1. Write a linear regression (Answer)  
 2. Write a custom Dataset and Dataloader for a CSV file  
 3. Write a custom activation function  
@@ -39,7 +41,7 @@ Compare your implementation with solutions/q001_solution.py for correctness.
 6. Run TensorBoard with PyTorch  
 7. Save and load your model for later  
 
-## Medium
+### Medium
 8. Implement a Deep Neural Network  
 9. Implement an LSTM  
 10. Implement a CNN on CIFAR-10  
@@ -48,7 +50,7 @@ Compare your implementation with solutions/q001_solution.py for correctness.
 13. Add a benchmark to your PyTorch code  
 14. Train an autoencoder for anomaly detection  
 
-## Hard
+### Hard
 15. Write a custom Autograd function  
 16. Write a Neural Style Transfer  
 17. Write a Transformer  
