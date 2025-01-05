@@ -33,7 +33,7 @@ Compare your implementation with solutions/q001_solution.py for correctness.
 ## Question Set
 
 ### Easy
-1. Write a linear regression (Answer)  
+1. [Write a linear regression](https://github.com/Exorust/TorchLeet/blob/main/q1-lin-regression.ipynb) [(Sollution)](https://github.com/Exorust/TorchLeet/blob/main/solutions/q1-lin-regression_SOLN.ipynb) 
 2. Write a custom Dataset and Dataloader for a CSV file  
 3. Write a custom activation function  
 4. Write a custom Loss function (Huber Loss)  
