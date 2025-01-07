@@ -11,22 +11,18 @@ TorchLeet is a curated set of PyTorch practice problems, inspired by LeetCode-st
 ## Getting Started
 
 ### 1. Install Dependencies
-Install the required dependencies using `requirements.txt`:
-```bash
-pip install -r requirements.txt
-```
+Install pytorch: [Install pytorch locally](https://pytorch.org/get-started/locally/)
+Some problems need other packages. Install as needed.
 
 ### 2. Structure
-- `questions/`: Contains individual questions (`q<ID>.py`).
-- `solutions/`: Corresponding answers (`q<ID>_solution.py`).
+- `<E/M/H><ID>/`: Easy/Medium/Hard along with the question ID.
+- `qname.ipynb`: The question file with incomplete code blocks.
+- `qname_SOLN.ipynb`: The corresponding solution file.
 
 ### 3. How to Use
-- Navigate to questions/ and pick a problem (e.g., q001.py).
+- Navigate to questions/ and pick a problem
 - Fill in the missing code blocks `(...)` and address the `#TODO` comments.
 - Test your solution and compare it with the corresponding file in `solutions/`.
-
-### 4. Verify
-Compare your implementation with solutions/q001_solution.py for correctness.
 
 **Happy Learning! 🚀**
 
@@ -66,3 +62,29 @@ Compare your implementation with solutions/q001_solution.py for correctness.
 # Contribution
 Feel free to contribute by adding new questions or improving existing ones. Ensure that new problems are well-documented and follow the project structure.
 
+# Authors:
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <a href="https://github.com/Exorust">
+          <img src="https://avatars.githubusercontent.com/u/20578676?v=4" width="100px;" alt="Chandrahas Aroori"/>
+          <br />
+          <b>Chandrahas Aroori</b>
+        </a>
+        <br />
+        💻 Developer
+      </td>
+      <td align="center">
+        <a href="https://github.com/author2">
+          <img src="https://avatars.githubusercontent.com/u/7891011?v=4" width="100px;" alt="Author 2"/>
+          <br />
+          <b>Caslow</b>
+        </a>
+        <br />
+        💻 Developer
+      </td>
+    </tr>
+  </table>
+</div>
