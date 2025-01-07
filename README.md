@@ -2,22 +2,20 @@
 
 TorchLeet is a curated set of PyTorch practice problems, inspired by LeetCode-style challenges, designed to enhance your skills in deep learning and PyTorch.
 
-## Features
+**What's cool? 🚀**
 - **Diverse Questions**: Covers beginner to advanced PyTorch concepts (e.g., tensors, autograd, CNNs, GANs, and more).
-- **Modular Design**: Each question has a unique ID and is self-contained.
-- **Guided Learning**: Includes incomplete code blocks (`...` and `#TODO`) for hands-on practice.
-- **Solutions Provided**: Answers are available for verification in a separate file.
+- **Guided Learning**: Includes incomplete code blocks (`...` and `#TODO`) for hands-on practice along with Answers
 
 ## Getting Started
 
 ### 1. Install Dependencies
-Install pytorch: [Install pytorch locally](https://pytorch.org/get-started/locally/)
-Some problems need other packages. Install as needed.
+- Install pytorch: [Install pytorch locally](https://pytorch.org/get-started/locally/)
+- Some problems need other packages. Install as needed.
 
 ### 2. Structure
 - `<E/M/H><ID>/`: Easy/Medium/Hard along with the question ID.
-- `qname.ipynb`: The question file with incomplete code blocks.
-- `qname_SOLN.ipynb`: The corresponding solution file.
+- `<E/M/H><ID>/qname.ipynb`: The question file with incomplete code blocks.
+- `<E/M/H><ID>/qname_SOLN.ipynb`: The corresponding solution file.
 
 ### 3. How to Use
 - Navigate to questions/ and pick a problem
@@ -29,8 +27,8 @@ Some problems need other packages. Install as needed.
 ## Question Set
 
 ### 🟢Easy
-1. [Implement linear regression](https://github.com/Exorust/TorchLeet/blob/main/q1-lin-regression.ipynb) [(Solution)](https://github.com/Exorust/TorchLeet/blob/main/solutions/q1-lin-regression_SOLN.ipynb) 
-2. Write a custom Dataset and Dataloader for a CSV file  
+1. [Implement linear regression](https://github.com/Exorust/TorchLeet/blob/main/e1/lin-regression.ipynb) [(Solution)](https://github.com/Exorust/TorchLeet/blob/main/e1/lin-regression_SOLN.ipynb)
+2. [Write a custom Dataset and Dataloader for a CSV file](https://github.com/Exorust/TorchLeet/blob/main/e2/custom-dataset.ipynb) [(Solution)](https://github.com/Exorust/TorchLeet/blob/main/e2/custom-dataset_SOLN.ipynb) 
 3. Write a custom activation function  
 4. Write a custom Loss function (Huber Loss)  
 5. Zero-out gradients in PyTorch  
