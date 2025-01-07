@@ -2,6 +2,21 @@
 
 TorchLeet is a curated set of PyTorch practice problems, inspired by LeetCode-style challenges, designed to enhance your skills in deep learning and PyTorch.
 
+## Table of Contents
+- [TorchLeet](#torchleet)
+  - [Table of Contents](#table-of-contents)
+  - [Getting Started](#getting-started)
+    - [1. Install Dependencies](#1-install-dependencies)
+    - [2. Structure](#2-structure)
+    - [3. How to Use](#3-how-to-use)
+  - [Question Set](#question-set)
+    - [🟢Easy](#easy)
+    - [🟡Medium](#medium)
+    - [🔴Hard](#hard)
+- [Contribution](#contribution)
+- [Authors:](#authors)
+
+
 **What's cool? 🚀**
 - **Diverse Questions**: Covers beginner to advanced PyTorch concepts (e.g., tensors, autograd, CNNs, GANs, and more).
 - **Guided Learning**: Includes incomplete code blocks (`...` and `#TODO`) for hands-on practice along with Answers
@@ -30,13 +45,13 @@ TorchLeet is a curated set of PyTorch practice problems, inspired by LeetCode-st
 1. [Implement linear regression](https://github.com/Exorust/TorchLeet/blob/main/e1/lin-regression.ipynb) [(Solution)](https://github.com/Exorust/TorchLeet/blob/main/e1/lin-regression_SOLN.ipynb)
 2. [Write a custom Dataset and Dataloader for a CSV file](https://github.com/Exorust/TorchLeet/blob/main/e2/custom-dataset.ipynb) [(Solution)](https://github.com/Exorust/TorchLeet/blob/main/e2/custom-dataset_SOLN.ipynb) 
 3. [Write a custom activation function (Simple)](https://github.com/Exorust/TorchLeet/blob/main/e3/custom-activation.ipynb) [(Solution)](https://github.com/Exorust/TorchLeet/blob/main/e3/custom-activation_SOLN.ipynb)
-4. Write a custom Loss function (Huber Loss)  
-5. Zero-out gradients in PyTorch  
+4. [Write a custom Loss function (Huber Loss)](https://github.com/Exorust/TorchLeet/blob/main/e4/custom-loss.ipynb) [(Solution)](https://github.com/Exorust/TorchLeet/blob/main/e4/custom-loss_SOLN.ipynb)  
+5. Implement a Deep Neural Network
 6. Run TensorBoard with PyTorch  
 7. Save and load your model for later  
 
-### 🟡Medium
-8. Implement a Deep Neural Network  
+
+### 🟡Medium 
 9. Implement an LSTM  
 10. Implement a CNN on CIFAR-10  
 11. Implement an RNN  
