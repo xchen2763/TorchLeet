@@ -52,24 +52,24 @@ TorchLeet is a curated set of PyTorch practice problems, inspired by LeetCode-st
 
 
 ### 🟡Medium 
-9. Implement an LSTM  
-10. Implement a CNN on CIFAR-10  
-11. Implement an RNN  
-12. Use `torchvision.transforms` to apply data augmentation  
-13. Add a benchmark to your PyTorch code  
-14. Train an autoencoder for anomaly detection
+1. Implement an LSTM  
+2. Implement a CNN on CIFAR-10  
+3. Implement an RNN  
+4. Use `torchvision.transforms` to apply data augmentation  
+5. Add a benchmark to your PyTorch code  
+6. Train an autoencoder for anomaly detection
 
 ### 🔴Hard
-15. [Write a custom Autograd function for activation (SILU)](https://github.com/Exorust/TorchLeet/blob/main/h15/custom-autograd-function.ipynb) [(Solution)](https://github.com/Exorust/TorchLeet/blob/main/e3/custom-activation_SOLN.ipynb)
-16. Write a Neural Style Transfer  
-17. Write a Transformer  
-18. Write a GAN  
-19. Write Sequence-to-Sequence with Attention  
-20. Quantize your language model
-21. Enable distributed training in pytorch (DistributedDataParallel)
-22. Work with Sparse Tensors
-23. Implement Mixed Precision Training using torch.cuda.amp
-24. Add GradCam/SHAP to explain the model.
+1. [Write a custom Autograd function for activation (SILU)](https://github.com/Exorust/TorchLeet/blob/main/h15/custom-autograd-function.ipynb) [(Solution)](https://github.com/Exorust/TorchLeet/blob/main/e3/custom-activation_SOLN.ipynb)
+2. Write a Neural Style Transfer  
+3. Write a Transformer  
+4. Write a GAN  
+5. Write Sequence-to-Sequence with Attention  
+6. Quantize your language model
+7. Enable distributed training in pytorch (DistributedDataParallel)
+8. Work with Sparse Tensors
+9. Implement Mixed Precision Training using torch.cuda.amp
+10. Add GradCam/SHAP to explain the model.
 
 
 # Contribution
