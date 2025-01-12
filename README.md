@@ -90,10 +90,10 @@ Feel free to contribute by adding new questions or improving existing ones. Ensu
         💻 Developer
       </td>
       <td align="center">
-        <a href="https://github.com/author2">
-          <img src="https://avatars.githubusercontent.com/u/7891011?v=4" width="100px;" alt="Author 2"/>
+        <a href="https://github.com/CaslowChien">
+          <img src="https://https://avatars.githubusercontent.com/CaslowChien" width="100px;" alt="Caslow Chien"/>
           <br />
-          <b>Caslow</b>
+          <b>Caslow Chien</b>
         </a>
         <br />
         💻 Developer
