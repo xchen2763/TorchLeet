@@ -60,7 +60,7 @@ TorchLeet is a curated set of PyTorch practice problems, inspired by LeetCode-st
 6. Train an autoencoder for anomaly detection
 
 ### 🔴Hard
-1. [Write a custom Autograd function for activation (SILU)](https://github.com/Exorust/TorchLeet/blob/main/h15/custom-autograd-function.ipynb) [(Solution)](https://github.com/Exorust/TorchLeet/blob/main/e3/custom-activation_SOLN.ipynb)
+1. [Write a custom Autograd function for activation (SILU)](https://github.com/Exorust/TorchLeet/blob/main/h1/custon-autgrad-function.ipynb) [(Solution)](https://github.com/Exorust/TorchLeet/blob/main/h1/custon-autgrad-function_SOLN.ipynb)
 2. Write a Neural Style Transfer  
 3. Write a Transformer  
 4. Write a GAN  
