@@ -1,43 +1,35 @@
-# TorchLeet
+<div align="center">
+  <img src="torch.png" alt="Robot Image">
+  <h1>TorchLeet</h1>
+  <p align="center">
+    🐦 <a href="https://twitter.com/charoori_ai">Follow me on Twitter</a> •
+    📧 <a href="mailto:chandrahas.aroori@gmail.com?subject=LLM%20Cookbook">Feedback</a>
+  </p>
+  <p>
+    ☕ If you find this helpful, consider supporting my work with a cup of coffee! 
+    <a href="https://www.buymeacoffee.com/charoori_ai" target="_blank">
+      <img src="https://cdn.buymeacoffee.com/button-api/?text=Buy%20Me%20A%20Coffee&emoji=&slug=your_username&button_colour=FF813F&font_colour=ffffff&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff" alt="Buy Me a Coffee" />
+    </a>
+  </p>
+</div>
+<br/>
 
 TorchLeet is a curated set of PyTorch practice problems, inspired by LeetCode-style challenges, designed to enhance your skills in deep learning and PyTorch.
 
 ## Table of Contents
 - [TorchLeet](#torchleet)
   - [Table of Contents](#table-of-contents)
-  - [Getting Started](#getting-started)
-    - [1. Install Dependencies](#1-install-dependencies)
-    - [2. Structure](#2-structure)
-    - [3. How to Use](#3-how-to-use)
   - [Question Set](#question-set)
     - [🟢Easy](#easy)
     - [🟡Medium](#medium)
     - [🔴Hard](#hard)
+  - [Getting Started](#getting-started)
+    - [1. Install Dependencies](#1-install-dependencies)
+    - [2. Structure](#2-structure)
+    - [3. How to Use](#3-how-to-use)
 - [Contribution](#contribution)
 - [Authors:](#authors)
 
-
-**What's cool? 🚀**
-- **Diverse Questions**: Covers beginner to advanced PyTorch concepts (e.g., tensors, autograd, CNNs, GANs, and more).
-- **Guided Learning**: Includes incomplete code blocks (`...` and `#TODO`) for hands-on practice along with Answers
-
-## Getting Started
-
-### 1. Install Dependencies
-- Install pytorch: [Install pytorch locally](https://pytorch.org/get-started/locally/)
-- Some problems need other packages. Install as needed.
-
-### 2. Structure
-- `<E/M/H><ID>/`: Easy/Medium/Hard along with the question ID.
-- `<E/M/H><ID>/qname.ipynb`: The question file with incomplete code blocks.
-- `<E/M/H><ID>/qname_SOLN.ipynb`: The corresponding solution file.
-
-### 3. How to Use
-- Navigate to questions/ and pick a problem
-- Fill in the missing code blocks `(...)` and address the `#TODO` comments.
-- Test your solution and compare it with the corresponding file in `solutions/`.
-
-**Happy Learning! 🚀**
 
 ## Question Set
 
@@ -71,6 +63,30 @@ TorchLeet is a curated set of PyTorch practice problems, inspired by LeetCode-st
 9. [Implement Mixed Precision Training using torch.cuda.amp](https://github.com/Exorust/TorchLeet/blob/main/h9/cuda-amp.ipynb) [(Solution)](https://github.com/Exorust/TorchLeet/blob/main/h9/cuda-amp_SOLN.ipynb)
 10. [Add GradCam/SHAP to explain the model.](https://github.com/Exorust/TorchLeet/blob/main/h10/xai.ipynb) [(Solution)](https://github.com/Exorust/TorchLeet/blob/main/h10/xai_SOLN.ipynb)
 
+**What's cool? 🚀**
+- **Diverse Questions**: Covers beginner to advanced PyTorch concepts (e.g., tensors, autograd, CNNs, GANs, and more).
+- **Guided Learning**: Includes incomplete code blocks (`...` and `#TODO`) for hands-on practice along with Answers
+
+## Getting Started
+
+### 1. Install Dependencies
+- Install pytorch: [Install pytorch locally](https://pytorch.org/get-started/locally/)
+- Some problems need other packages. Install as needed.
+
+### 2. Structure
+- `<E/M/H><ID>/`: Easy/Medium/Hard along with the question ID.
+- `<E/M/H><ID>/qname.ipynb`: The question file with incomplete code blocks.
+- `<E/M/H><ID>/qname_SOLN.ipynb`: The corresponding solution file.
+
+### 3. How to Use
+- Navigate to questions/ and pick a problem
+- Fill in the missing code blocks `(...)` and address the `#TODO` comments.
+- Test your solution and compare it with the corresponding file in `solutions/`.
+
+**Happy Learning! 🚀**
+
+
+
 
 # Contribution
 Feel free to contribute by adding new questions or improving existing ones. Ensure that new problems are well-documented and follow the project structure.
@@ -87,7 +103,17 @@ Feel free to contribute by adding new questions or improving existing ones. Ensu
           <b>Chandrahas Aroori</b>
         </a>
         <br />
-        💻 Developer
+        💻 AI/ML Dev
+        <br />
+        <a href="ttps://twitter.com/charoori_ai" target="_blank">
+          <img src="https://upload.wikimedia.org/wikipedia/commons/6/60/Twitter_Logo_as_of_2021.svg" width="20px;" alt="Twitter"/>
+        </a> 
+        <a href="https://www.linkedin.com/in/chandrahas-aroori/" target="_blank">
+          <img src="https://upload.wikimedia.org/wikipedia/commons/0/0e/LinkedIn_Logo_2013.svg" width="20px;" alt="LinkedIn"/>
+        </a>
+        <a href="mailto:charoori@bu.edu" target="_blank">
+          <img src="https://upload.wikimedia.org/wikipedia/commons/a/a6/Email_icon.svg" width="20px;" alt="Email"/>
+        </a>
       </td>
       <td align="center">
         <a href="https://github.com/CaslowChien">
@@ -97,7 +123,18 @@ Feel free to contribute by adding new questions or improving existing ones. Ensu
         </a>
         <br />
         💻 Developer
+        <br />
+        <a href="https://twitter.com/your_twitter_handle" target="_blank">
+          <img src="https://upload.wikimedia.org/wikipedia/commons/6/60/Twitter_Logo_as_of_2021.svg" width="20px;" alt="Twitter"/>
+        </a> 
+        <a href="https://www.linkedin.com/in/your_linkedin_handle/" target="_blank">
+          <img src="https://upload.wikimedia.org/wikipedia/commons/0/0e/LinkedIn_Logo_2013.svg" width="20px;" alt="LinkedIn"/>
+        </a>
+        <a href="mailto:your_email@example.com" target="_blank">
+          <img src="https://upload.wikimedia.org/wikipedia/commons/a/a6/Email_icon.svg" width="20px;" alt="Email"/>
+        </a>
       </td>
     </tr>
   </table>
 </div>
+
