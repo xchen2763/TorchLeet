@@ -43,12 +43,12 @@ TorchLeet is a curated set of PyTorch practice problems, inspired by LeetCode-st
 
 ### 🟢Easy
 1. [Implement linear regression](https://github.com/Exorust/TorchLeet/blob/main/e1/lin-regression.ipynb) [(Solution)](https://github.com/Exorust/TorchLeet/blob/main/e1/lin-regression_SOLN.ipynb)
-2. [Write a custom Dataset and Dataloader for a CSV file](https://github.com/Exorust/TorchLeet/blob/main/e2/custom-dataset.ipynb) [(Solution)](https://github.com/Exorust/TorchLeet/blob/main/e2/custom-dataset_SOLN.ipynb) 
+2. [Write a custom Dataset and Dataloader to load from a CSV file](https://github.com/Exorust/TorchLeet/blob/main/e2/custom-dataset.ipynb) [(Solution)](https://github.com/Exorust/TorchLeet/blob/main/e2/custom-dataset_SOLN.ipynb) 
 3. [Write a custom activation function (Simple)](https://github.com/Exorust/TorchLeet/blob/main/e3/custom-activation.ipynb) [(Solution)](https://github.com/Exorust/TorchLeet/blob/main/e3/custom-activation_SOLN.ipynb)
-4. [Write a custom Loss function (Huber Loss)](https://github.com/Exorust/TorchLeet/blob/main/e4/custom-loss.ipynb) [(Solution)](https://github.com/Exorust/TorchLeet/blob/main/e4/custom-loss_SOLN.ipynb)  
+4. [Implement Custom Loss Function (Huber Loss)](https://github.com/Exorust/TorchLeet/blob/main/e4/custom-loss.ipynb) [(Solution)](https://github.com/Exorust/TorchLeet/blob/main/e4/custom-loss_SOLN.ipynb)  
 5. [Implement a Deep Neural Network](https://github.com/Exorust/TorchLeet/blob/main/e5/custon-DNN.ipynb) [(Solution)](https://github.com/Exorust/TorchLeet/blob/main/e5/custon-DNN_SOLN.ipynb)  
-6. [Run TensorBoard with PyTorch](https://github.com/Exorust/TorchLeet/blob/main/e6/tensorboard.ipynb) [(Solution)](https://github.com/Exorust/TorchLeet/blob/main/e6/tensorboard_SOLN.ipynb)  
-7. [Save and load your model for later](https://github.com/Exorust/TorchLeet/blob/main/e7/save_model.ipynb) [(Solution)](https://github.com/Exorust/TorchLeet/blob/main/e7/save_model_SOLN.ipynb)  
+6. [Visualize Training Progress with TensorBoard in PyTorch](https://github.com/Exorust/TorchLeet/blob/main/e6/tensorboard.ipynb) [(Solution)](https://github.com/Exorust/TorchLeet/blob/main/e6/tensorboard_SOLN.ipynb)  
+7. [Save and Load Your PyTorch Model](https://github.com/Exorust/TorchLeet/blob/main/e7/save_model.ipynb) [(Solution)](https://github.com/Exorust/TorchLeet/blob/main/e7/save_model_SOLN.ipynb)  
 
 
 ### 🟡Medium 
