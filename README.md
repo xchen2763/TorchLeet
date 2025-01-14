@@ -1,6 +1,6 @@
 <div align="center">
   <img src="torch.png" alt="Robot Image">
-  <h1>TorchLeet</h1>
+  <!-- <h1>TorchLeet</h1> -->
   <p align="center">
     🐦 <a href="https://twitter.com/charoori_ai">Follow me on Twitter</a> •
     📧 <a href="mailto:chandrahas.aroori@gmail.com?subject=LLM%20Cookbook">Feedback</a>
