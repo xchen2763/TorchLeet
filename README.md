@@ -7,9 +7,7 @@
   </p>
   <p>
     ☕ If you find this helpful, consider supporting my work with a cup of coffee! 
-    <a href="https://www.buymeacoffee.com/charoori_ai" target="_blank">
-      <img src="https://cdn.buymeacoffee.com/button-api/?text=Buy%20Me%20A%20Coffee&emoji=&slug=your_username&button_colour=FF813F&font_colour=ffffff&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff" alt="Buy Me a Coffee" />
-    </a>
+    <a href="https://www.buymeacoffee.com/charoori_ai" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
   </p>
 </div>
 <br/>
