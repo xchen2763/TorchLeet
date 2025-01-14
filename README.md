@@ -88,7 +88,7 @@ TorchLeet is a curated set of PyTorch practice problems, inspired by LeetCode-st
 # Contribution
 Feel free to contribute by adding new questions or improving existing ones. Ensure that new problems are well-documented and follow the project structure.
 
-# Authors:
+# Authors
 
 <div align="center">
   <table>
