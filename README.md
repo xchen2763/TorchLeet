@@ -135,3 +135,6 @@ Feel free to contribute by adding new questions or improving existing ones. Ensu
   </table>
 </div>
 
+                        
+## Stargazers over time
+[![Stargazers over time](https://starchart.cc/Exorust/TorchLeet.svg?variant=adaptive)](https://starchart.cc/Exorust/TorchLeet)
