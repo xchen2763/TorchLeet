@@ -121,13 +121,13 @@ Feel free to contribute by adding new questions or improving existing ones. Ensu
         <br />
         💻 Developer
         <br />
-        <a href="https://twitter.com/your_twitter_handle" target="_blank">
-          <img src="https://upload.wikimedia.org/wikipedia/commons/6/60/Twitter_Logo_as_of_2021.svg" width="20px;" alt="Twitter"/>
+        <a href="https://caslowchien.github.io/caslow.github.io/" target="_blank">
+          <img src="https://upload.wikimedia.org/wikipedia/commons/6/60/Twitter_Logo_as_of_2021.svg" width="20px;" alt="Website"/>
         </a> 
-        <a href="https://www.linkedin.com/in/your_linkedin_handle/" target="_blank">
+        <a href="https://www.linkedin.com/in/caslow/" target="_blank">
           <img src="https://upload.wikimedia.org/wikipedia/commons/0/0e/LinkedIn_Logo_2013.svg" width="20px;" alt="LinkedIn"/>
         </a>
-        <a href="mailto:your_email@example.com" target="_blank">
+        <a href="mailto:caslow@bu.edu" target="_blank">
           <img src="https://upload.wikimedia.org/wikipedia/commons/a/a6/Email_icon.svg" width="20px;" alt="Email"/>
         </a>
       </td>
