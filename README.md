@@ -43,10 +43,11 @@ TorchLeet is a curated set of PyTorch practice problems, inspired by LeetCode-st
 ### 🟡Medium 
 1. [Implement an LSTM](https://github.com/Exorust/TorchLeet/blob/main/m1/LSTM.ipynb) [(Solution)](https://github.com/Exorust/TorchLeet/blob/main/m1/LSTM_SOLN.ipynb)  
 2. [Implement a CNN on CIFAR-10](https://github.com/Exorust/TorchLeet/blob/main/m2/CNN.ipynb) [(Solution)](https://github.com/Exorust/TorchLeet/blob/main/m2/CNN_SOLN.ipynb)  
-3. [Implement an RNN](https://github.com/Exorust/TorchLeet/blob/main/m3/RNN.ipynb) [(Solution)](https://github.com/Exorust/TorchLeet/blob/main/m3/RNN_SOLN.ipynb)  
-4. [Use `torchvision.transforms` to apply data augmentation](https://github.com/Exorust/TorchLeet/blob/main/m4/augmentation.ipynb) [(Solution)](https://github.com/Exorust/TorchLeet/blob/main/m4/augmentation_SOLN.ipynb)  
-5. [Add a benchmark to your PyTorch code](https://github.com/Exorust/TorchLeet/blob/main/m5/bench.ipynb) [(Solution)](https://github.com/Exorust/TorchLeet/blob/main/m5/bench_SOLN.ipynb)  
-6. [Train an autoencoder for anomaly detection](https://github.com/Exorust/TorchLeet/blob/main/m6/autoencoder.ipynb) [(Solution)](https://github.com/Exorust/TorchLeet/blob/main/m6/autoencoder_SOLN.ipynb)  
+3. [Implement parameter initialization for a CNN]() [(Solution)]()
+4. [Implement an RNN](https://github.com/Exorust/TorchLeet/blob/main/m3/RNN.ipynb) [(Solution)](https://github.com/Exorust/TorchLeet/blob/main/m3/RNN_SOLN.ipynb)  
+5. [Use `torchvision.transforms` to apply data augmentation](https://github.com/Exorust/TorchLeet/blob/main/m4/augmentation.ipynb) [(Solution)](https://github.com/Exorust/TorchLeet/blob/main/m4/augmentation_SOLN.ipynb)  
+6. [Add a benchmark to your PyTorch code](https://github.com/Exorust/TorchLeet/blob/main/m5/bench.ipynb) [(Solution)](https://github.com/Exorust/TorchLeet/blob/main/m5/bench_SOLN.ipynb)  
+7. [Train an autoencoder for anomaly detection](https://github.com/Exorust/TorchLeet/blob/main/m6/autoencoder.ipynb) [(Solution)](https://github.com/Exorust/TorchLeet/blob/main/m6/autoencoder_SOLN.ipynb)  
 
 ### 🔴Hard
 1. [Write a custom Autograd function for activation (SILU)](https://github.com/Exorust/TorchLeet/blob/main/h1/custom-autgrad-function.ipynb) [(Solution)](https://github.com/Exorust/TorchLeet/blob/main/h1/custom-autgrad-function_SOLN.ipynb)
