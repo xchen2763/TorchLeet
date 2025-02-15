@@ -11,7 +11,7 @@
 </div>
 <br/>
 
-TorchLeet is a curated set of PyTorch practice problems, inspired by LeetCode-style challenges, designed to enhance your skills in deep learning and PyTorch.
+TorchLeet is a curated set of PyTorch practice problems, inspired by LeetCode-style challenges, designed to enhance your skills in deep learning and PyTorch. NOW WITH LLMS!
 
 ## Table of Contents
 - [TorchLeet](#torchleet)
@@ -20,6 +20,7 @@ TorchLeet is a curated set of PyTorch practice problems, inspired by LeetCode-st
     - [🟢Easy](#easy)
     - [🟡Medium](#medium)
     - [🔴Hard](#hard)
+  - [LLM Set](#llm-set)
   - [Getting Started](#getting-started)
     - [1. Install Dependencies](#1-install-dependencies)
     - [2. Structure](#2-structure)
@@ -37,7 +38,10 @@ TorchLeet is a curated set of PyTorch practice problems, inspired by LeetCode-st
 4. [Implement Custom Loss Function (Huber Loss)](https://github.com/Exorust/TorchLeet/blob/main/e4/custom-loss.ipynb) [(Solution)](https://github.com/Exorust/TorchLeet/blob/main/e4/custom-loss_SOLN.ipynb)  
 5. [Implement a Deep Neural Network](https://github.com/Exorust/TorchLeet/blob/main/e5/custon-DNN.ipynb) [(Solution)](https://github.com/Exorust/TorchLeet/blob/main/e5/custon-DNN_SOLN.ipynb)  
 6. [Visualize Training Progress with TensorBoard in PyTorch](https://github.com/Exorust/TorchLeet/blob/main/e6/tensorboard.ipynb) [(Solution)](https://github.com/Exorust/TorchLeet/blob/main/e6/tensorboard_SOLN.ipynb)  
-7. [Save and Load Your PyTorch Model](https://github.com/Exorust/TorchLeet/blob/main/e7/save_model.ipynb) [(Solution)](https://github.com/Exorust/TorchLeet/blob/main/e7/save_model_SOLN.ipynb)  
+7. [Save and Load Your PyTorch Model](https://github.com/Exorust/TorchLeet/blob/main/e7/save_model.ipynb) [(Solution)](https://github.com/Exorust/TorchLeet/blob/main/e7/save_model_SOLN.ipynb) 
+8. Implement RMS Norm
+9. Implement KL divergence loss
+10. Implement Softmax function from scratch
 
 
 ### 🟡Medium 
@@ -60,6 +64,30 @@ TorchLeet is a curated set of PyTorch practice problems, inspired by LeetCode-st
 8. [Work with Sparse Tensors]
 9. [Implement Mixed Precision Training using torch.cuda.amp](https://github.com/Exorust/TorchLeet/blob/main/h9/cuda-amp.ipynb) [(Solution)](https://github.com/Exorust/TorchLeet/blob/main/h9/cuda-amp_SOLN.ipynb)
 10. [Add GradCam/SHAP to explain the model.](https://github.com/Exorust/TorchLeet/blob/main/h10/xai.ipynb) [(Solution)](https://github.com/Exorust/TorchLeet/blob/main/h10/xai_SOLN.ipynb)
+
+
+## LLM Set
+
+**An all new set of questions to help you understand and implement Large Language Models from scratch. **
+
+1. Implement Byte Pair Encoding from Scratch
+2. Create an embeddings out of an LLM
+3. Implement Predictive Prefill with Speculative Decoding
+4. Implement Attention from Scratch 
+5. Implement KV Cache in Multi-Head Attention from Scratch
+6. Implement Sinusoidal Embeddings
+7. Implement ROPE Embeddings
+8. Implement SmolLM from Scratch
+9. Implement Beam Search atop LLM for decoding
+10. Implement Top K Sampling atop LLM for decoding
+11. Implement Top p Sampling atop LLM for decoding
+12. Implement Temperature Sampling atop LLM for decoding
+13. Implement LoRA on a layer of an LLM
+14. Mix two models to create a mixture of Experts
+15. Apply SFT on SmolLM 
+16. Apply RLHF on SmolLM
+17. Implement DPO based RLHF
+18. Add continous batching to your LLM
 
 **What's cool? 🚀**
 - **Diverse Questions**: Covers beginner to advanced PyTorch concepts (e.g., tensors, autograd, CNNs, GANs, and more).
@@ -84,10 +112,8 @@ TorchLeet is a curated set of PyTorch practice problems, inspired by LeetCode-st
 **Happy Learning! 🚀**
 
 
-
-
 # Contribution
-Feel free to contribute by adding new questions or improving existing ones. Ensure that new problems are well-documented and follow the project structure.
+Feel free to contribute by adding new questions or improving existing ones. Ensure that new problems are well-documented and follow the project structure. Submit a PR and tag the authors.
 
 # Authors
 
