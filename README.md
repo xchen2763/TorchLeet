@@ -74,20 +74,21 @@ TorchLeet is a curated set of PyTorch practice problems, inspired by LeetCode-st
 2. Create an embeddings out of an LLM
 3. Implement Predictive Prefill with Speculative Decoding
 4. Implement Attention from Scratch 
-5. Implement KV Cache in Multi-Head Attention from Scratch
-6. Implement Sinusoidal Embeddings
-7. Implement ROPE Embeddings
-8. Implement SmolLM from Scratch
-9. Implement Beam Search atop LLM for decoding
-10. Implement Top K Sampling atop LLM for decoding
-11. Implement Top p Sampling atop LLM for decoding
-12. Implement Temperature Sampling atop LLM for decoding
-13. Implement LoRA on a layer of an LLM
-14. Mix two models to create a mixture of Experts
-15. Apply SFT on SmolLM 
-16. Apply RLHF on SmolLM
-17. Implement DPO based RLHF
-18. Add continous batching to your LLM
+5. Implement Multi-Head Attention from Scratch
+6. Implement KV Cache in Multi-Head Attention from Scratch
+7. Implement Sinusoidal Embeddings
+8. Implement ROPE Embeddings
+9. Implement SmolLM from Scratch
+10. Implement Beam Search atop LLM for decoding
+11. Implement Top K Sampling atop LLM for decoding
+12. Implement Top p Sampling atop LLM for decoding
+13. Implement Temperature Sampling atop LLM for decoding
+14. Implement LoRA on a layer of an LLM
+15. Mix two models to create a mixture of Experts
+16. Apply SFT on SmolLM 
+17. Apply RLHF on SmolLM
+18. Implement DPO based RLHF
+19. Add continous batching to your LLM
 
 **What's cool? 🚀**
 - **Diverse Questions**: Covers beginner to advanced PyTorch concepts (e.g., tensors, autograd, CNNs, GANs, and more).
