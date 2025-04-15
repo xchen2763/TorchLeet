@@ -68,27 +68,32 @@ TorchLeet is a curated set of PyTorch practice problems, inspired by LeetCode-st
 
 ## LLM Set
 
-**An all new set of questions to help you understand and implement Large Language Models from scratch. **
+**An all new set of questions to help you understand and implement Large Language Models from scratch.**
 
-1. Implement Byte Pair Encoding from Scratch
-2. Create an embeddings out of an LLM
-3. Implement Predictive Prefill with Speculative Decoding
-4. Implement Attention from Scratch 
-5. Implement Multi-Head Attention from Scratch
-6. Implement KV Cache in Multi-Head Attention from Scratch
-7. Implement Sinusoidal Embeddings
-8. Implement ROPE Embeddings
-9. Implement SmolLM from Scratch
-10. Implement Beam Search atop LLM for decoding
-11. Implement Top K Sampling atop LLM for decoding
-12. Implement Top p Sampling atop LLM for decoding
-13. Implement Temperature Sampling atop LLM for decoding
-14. Implement LoRA on a layer of an LLM
-15. Mix two models to create a mixture of Experts
-16. Apply SFT on SmolLM 
-17. Apply RLHF on SmolLM
-18. Implement DPO based RLHF
-19. Add continous batching to your LLM
+1. Implement KL Divergence Loss
+2. Implement Byte Pair Encoding from Scratch
+3. Create an embeddings out of an LLM
+4. Implement Predictive Prefill with Speculative Decoding
+5. Implement Attention from Scratch 
+6. Implement Multi-Head Attention from Scratch
+7. Implement KV Cache in Multi-Head Attention from Scratch
+8. Implement Sinusoidal Embeddings
+9. Implement ROPE Embeddings
+10. Implement SmolLM from Scratch
+11. Implement Quantization of Models
+    a. Types of Quantization
+12. Implement Beam Search atop LLM for decoding
+13. Implement Top K Sampling atop LLM for decoding
+14. Implement Top p Sampling atop LLM for decoding
+15. Implement Temperature Sampling atop LLM for decoding
+16. Implement LoRA on a layer of an LLM
+17. Mix two models to create a mixture of Experts
+18. Apply SFT on SmolLM 
+19. Apply RLHF on SmolLM
+20. Implement DPO based RLHF
+21. Add continous batching to your LLM
+22. Chunk Textual Data for Dense Passage Retreival
+23. Implement Lage scale Training => 5D Parallelism
 
 **What's cool? 🚀**
 - **Diverse Questions**: Covers beginner to advanced PyTorch concepts (e.g., tensors, autograd, CNNs, GANs, and more).
