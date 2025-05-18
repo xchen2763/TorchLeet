@@ -76,24 +76,25 @@ TorchLeet is a curated set of PyTorch practice problems, inspired by LeetCode-st
 4. Implement Predictive Prefill with Speculative Decoding
 5. Implement Attention from Scratch 
 6. Implement Multi-Head Attention from Scratch
-7. Implement KV Cache in Multi-Head Attention from Scratch
-8. Implement Sinusoidal Embeddings
-9. Implement ROPE Embeddings
-10. Implement SmolLM from Scratch
-11. Implement Quantization of Models
+7. Implement Grouped Query Attention from Scratch
+8. Implement KV Cache in Multi-Head Attention from Scratch
+9. Implement Sinusoidal Embeddings
+10. Implement ROPE Embeddings
+11. Implement SmolLM from Scratch
+12. Implement Quantization of Models
     a. Types of Quantization
-12. Implement Beam Search atop LLM for decoding
-13. Implement Top K Sampling atop LLM for decoding
-14. Implement Top p Sampling atop LLM for decoding
-15. Implement Temperature Sampling atop LLM for decoding
-16. Implement LoRA on a layer of an LLM
-17. Mix two models to create a mixture of Experts
-18. Apply SFT on SmolLM 
-19. Apply RLHF on SmolLM
-20. Implement DPO based RLHF
-21. Add continous batching to your LLM
-22. Chunk Textual Data for Dense Passage Retreival
-23. Implement Lage scale Training => 5D Parallelism
+13. Implement Beam Search atop LLM for decoding
+14. Implement Top K Sampling atop LLM for decoding
+15. Implement Top p Sampling atop LLM for decoding
+16. Implement Temperature Sampling atop LLM for decoding
+17. Implement LoRA on a layer of an LLM
+18. Mix two models to create a mixture of Experts
+19. Apply SFT on SmolLM 
+20. Apply RLHF on SmolLM
+21. Implement DPO based RLHF
+22. Add continous batching to your LLM
+23. Chunk Textual Data for Dense Passage Retreival
+24. Implement Lage scale Training => 5D Parallelism
 
 **What's cool? 🚀**
 - **Diverse Questions**: Covers beginner to advanced PyTorch concepts (e.g., tensors, autograd, CNNs, GANs, and more).
