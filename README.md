@@ -39,8 +39,6 @@ TorchLeet is a curated set of PyTorch practice problems, inspired by LeetCode-st
 5. [Implement a Deep Neural Network](https://github.com/Exorust/TorchLeet/blob/main/e5/custon-DNN.ipynb) [(Solution)](https://github.com/Exorust/TorchLeet/blob/main/e5/custon-DNN_SOLN.ipynb)  
 6. [Visualize Training Progress with TensorBoard in PyTorch](https://github.com/Exorust/TorchLeet/blob/main/e6/tensorboard.ipynb) [(Solution)](https://github.com/Exorust/TorchLeet/blob/main/e6/tensorboard_SOLN.ipynb)  
 7. [Save and Load Your PyTorch Model](https://github.com/Exorust/TorchLeet/blob/main/e7/save_model.ipynb) [(Solution)](https://github.com/Exorust/TorchLeet/blob/main/e7/save_model_SOLN.ipynb) 
-8. Implement RMS Norm
-9. Implement KL divergence loss
 10. Implement Softmax function from scratch
 
 
@@ -71,30 +69,31 @@ TorchLeet is a curated set of PyTorch practice problems, inspired by LeetCode-st
 **An all new set of questions to help you understand and implement Large Language Models from scratch.**
 
 1. Implement KL Divergence Loss
-2. Implement Byte Pair Encoding from Scratch
-3. Create an embeddings out of an LLM
-4. Implement Predictive Prefill with Speculative Decoding
-5. Implement Attention from Scratch 
-6. Implement Multi-Head Attention from Scratch
-7. Implement Grouped Query Attention from Scratch
-8. Implement KV Cache in Multi-Head Attention from Scratch
-9. Implement Sinusoidal Embeddings
-10. Implement ROPE Embeddings
-11. Implement SmolLM from Scratch
-12. Implement Quantization of Models
+2. Implement RMS Norm
+3. Implement Byte Pair Encoding from Scratch
+4. Create an embeddings out of an LLM
+5. Implement Predictive Prefill with Speculative Decoding
+6. Implement Attention from Scratch 
+7. Implement Multi-Head Attention from Scratch
+8. Implement Grouped Query Attention from Scratch
+9. Implement KV Cache in Multi-Head Attention from Scratch
+10. Implement Sinusoidal Embeddings
+11. Implement ROPE Embeddings
+12. Implement SmolLM from Scratch
+13. Implement Quantization of Models
     a. Types of Quantization
-13. Implement Beam Search atop LLM for decoding
-14. Implement Top K Sampling atop LLM for decoding
-15. Implement Top p Sampling atop LLM for decoding
-16. Implement Temperature Sampling atop LLM for decoding
-17. Implement LoRA on a layer of an LLM
-18. Mix two models to create a mixture of Experts
-19. Apply SFT on SmolLM 
-20. Apply RLHF on SmolLM
-21. Implement DPO based RLHF
-22. Add continous batching to your LLM
-23. Chunk Textual Data for Dense Passage Retreival
-24. Implement Lage scale Training => 5D Parallelism
+14. Implement Beam Search atop LLM for decoding
+15. Implement Top K Sampling atop LLM for decoding
+16. Implement Top p Sampling atop LLM for decoding
+17. Implement Temperature Sampling atop LLM for decoding
+18. Implement LoRA on a layer of an LLM
+19. Mix two models to create a mixture of Experts
+20. Apply SFT on SmolLM 
+21. Apply RLHF on SmolLM
+22. Implement DPO based RLHF
+23. Add continous batching to your LLM
+24. Chunk Textual Data for Dense Passage Retreival
+25. Implement Lage scale Training => 5D Parallelism
 
 **What's cool? 🚀**
 - **Diverse Questions**: Covers beginner to advanced PyTorch concepts (e.g., tensors, autograd, CNNs, GANs, and more).
