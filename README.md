@@ -70,15 +70,15 @@ TorchLeet is a curated set of PyTorch practice problems, inspired by LeetCode-st
 
 1. Implement KL Divergence Loss
 2. Implement RMS Norm
-3. Implement Byte Pair Encoding from Scratch
-4. Create an embeddings out of an LLM
+3. [Implement Byte Pair Encoding from Scratch](https://github.com/AtulAravindDas/TorchLeet/blob/ff5b96d6f99ccdc7d94e86efe873875065107754/llm/BPE-q3.ipynb)
+4. [Create an embeddings out of an LLM](https://github.com/AtulAravindDas/TorchLeet/blob/ff5b96d6f99ccdc7d94e86efe873875065107754/llm/embeddings-q2.ipynb)
 5. Implement Predictive Prefill with Speculative Decoding
-6. Implement Attention from Scratch 
-7. Implement Multi-Head Attention from Scratch
-8. Implement Grouped Query Attention from Scratch
+6. [Implement Attention from Scratch](https://github.com/AtulAravindDas/TorchLeet/blob/ff5b96d6f99ccdc7d94e86efe873875065107754/llm/attention-q4.ipynb)
+7. [Implement Multi-Head Attention from Scratch](https://github.com/AtulAravindDas/TorchLeet/blob/ff5b96d6f99ccdc7d94e86efe873875065107754/llm/multi-head-attention-q5.ipynb)
+8. [Implement Grouped Query Attention from Scratch](https://github.com/AtulAravindDas/TorchLeet/blob/ff5b96d6f99ccdc7d94e86efe873875065107754/llm/grouped-query-attention.ipynb)
 9. Implement KV Cache in Multi-Head Attention from Scratch
-10. Implement Sinusoidal Embeddings
-11. Implement ROPE Embeddings
+10. [Implement Sinusoidal Embeddings](https://github.com/AtulAravindDas/TorchLeet/blob/ff5b96d6f99ccdc7d94e86efe873875065107754/llm/sinusoidal-q7.ipynb)
+11. [Implement ROPE Embeddings](https://github.com/AtulAravindDas/TorchLeet/blob/ff5b96d6f99ccdc7d94e86efe873875065107754/llm/rope-q8.ipynb)
 12. Implement SmolLM from Scratch
 13. Implement Quantization of Models
     a. Types of Quantization
