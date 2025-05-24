@@ -32,36 +32,36 @@ TorchLeet is a curated set of PyTorch practice problems, inspired by LeetCode-st
 ## Question Set
 
 ### 🟢Easy
-1. [Implement linear regression](https://github.com/Exorust/TorchLeet/blob/main/e1/lin-regression.ipynb) [(Solution)](https://github.com/Exorust/TorchLeet/blob/main/e1/lin-regression_SOLN.ipynb)
-2. [Write a custom Dataset and Dataloader to load from a CSV file](https://github.com/Exorust/TorchLeet/blob/main/e2/custom-dataset.ipynb) [(Solution)](https://github.com/Exorust/TorchLeet/blob/main/e2/custom-dataset_SOLN.ipynb) 
-3. [Write a custom activation function (Simple)](https://github.com/Exorust/TorchLeet/blob/main/e3/custom-activation.ipynb) [(Solution)](https://github.com/Exorust/TorchLeet/blob/main/e3/custom-activation_SOLN.ipynb)
-4. [Implement Custom Loss Function (Huber Loss)](https://github.com/Exorust/TorchLeet/blob/main/e4/custom-loss.ipynb) [(Solution)](https://github.com/Exorust/TorchLeet/blob/main/e4/custom-loss_SOLN.ipynb)  
-5. [Implement a Deep Neural Network](https://github.com/Exorust/TorchLeet/blob/main/e5/custon-DNN.ipynb) [(Solution)](https://github.com/Exorust/TorchLeet/blob/main/e5/custon-DNN_SOLN.ipynb)  
-6. [Visualize Training Progress with TensorBoard in PyTorch](https://github.com/Exorust/TorchLeet/blob/main/e6/tensorboard.ipynb) [(Solution)](https://github.com/Exorust/TorchLeet/blob/main/e6/tensorboard_SOLN.ipynb)  
-7. [Save and Load Your PyTorch Model](https://github.com/Exorust/TorchLeet/blob/main/e7/save_model.ipynb) [(Solution)](https://github.com/Exorust/TorchLeet/blob/main/e7/save_model_SOLN.ipynb) 
+1. [Implement linear regression](https://github.com/Exorust/TorchLeet/torch/easy/e1/lin-regression.ipynb) [(Solution)](https://github.com/Exorust/TorchLeet/torch/easy/e1/lin-regression_SOLN.ipynb)
+2. [Write a custom Dataset and Dataloader to load from a CSV file](https://github.com/Exorust/TorchLeet/torch/easy/e2/custom-dataset.ipynb) [(Solution)](https://github.com/Exorust/TorchLeet/torch/easy/e2/custom-dataset_SOLN.ipynb) 
+3. [Write a custom activation function (Simple)](https://github.com/Exorust/TorchLeet/torch/easy/e3/custom-activation.ipynb) [(Solution)](https://github.com/Exorust/TorchLeet/blob/main/e3/custom-activation_SOLN.ipynb)
+4. [Implement Custom Loss Function (Huber Loss)](https://github.com/Exorust/TorchLeet/torch/easy/main/e4/custom-loss.ipynb) [(Solution)](https://github.com/Exorust/TorchLeet/torch/easy/main/e4/custom-loss_SOLN.ipynb)  
+5. [Implement a Deep Neural Network](https://github.com/Exorust/TorchLeet/torch/easy/e5/custon-DNN.ipynb) [(Solution)](https://github.com/Exorust/TorchLeet/torch/easy/e5/custon-DNN_SOLN.ipynb)  
+6. [Visualize Training Progress with TensorBoard in PyTorch](https://github.com/Exorust/TorchLeet/torch/easy/e6/tensorboard.ipynb) [(Solution)](https://github.com/Exorust/TorchLeet/torch/easy/e6/tensorboard_SOLN.ipynb)  
+7. [Save and Load Your PyTorch Model](https://github.com/Exorust/TorchLeet/torch/easy/e7/save_model.ipynb) [(Solution)](https://github.com/Exorust/TorchLeet/torch/easy/e7/save_model_SOLN.ipynb) 
 10. Implement Softmax function from scratch
 
 
 ### 🟡Medium 
-1. [Implement an LSTM](https://github.com/Exorust/TorchLeet/blob/main/m1/LSTM.ipynb) [(Solution)](https://github.com/Exorust/TorchLeet/blob/main/m1/LSTM_SOLN.ipynb)  
-2. [Implement a CNN on CIFAR-10](https://github.com/Exorust/TorchLeet/blob/main/m2/CNN.ipynb) [(Solution)](https://github.com/Exorust/TorchLeet/blob/main/m2/CNN_SOLN.ipynb)  
+1. [Implement an LSTM](https://github.com/Exorust/TorchLeet/torch/medium/m1/LSTM.ipynb) [(Solution)](https://github.com/Exorust/TorchLeet/torch/medium/m1/LSTM_SOLN.ipynb)  
+2. [Implement a CNN on CIFAR-10](https://github.com/Exorust/TorchLeet/torch/medium/m2/CNN.ipynb) [(Solution)](https://github.com/Exorust/TorchLeet/torch/medium/m2/CNN_SOLN.ipynb)  
 3. [Implement parameter initialization for a CNN]() [(Solution)]()
-4. [Implement an RNN](https://github.com/Exorust/TorchLeet/blob/main/m3/RNN.ipynb) [(Solution)](https://github.com/Exorust/TorchLeet/blob/main/m3/RNN_SOLN.ipynb)  
-5. [Use `torchvision.transforms` to apply data augmentation](https://github.com/Exorust/TorchLeet/blob/main/m4/augmentation.ipynb) [(Solution)](https://github.com/Exorust/TorchLeet/blob/main/m4/augmentation_SOLN.ipynb)  
-6. [Add a benchmark to your PyTorch code](https://github.com/Exorust/TorchLeet/blob/main/m5/bench.ipynb) [(Solution)](https://github.com/Exorust/TorchLeet/blob/main/m5/bench_SOLN.ipynb)  
-7. [Train an autoencoder for anomaly detection](https://github.com/Exorust/TorchLeet/blob/main/m6/autoencoder.ipynb) [(Solution)](https://github.com/Exorust/TorchLeet/blob/main/m6/autoencoder_SOLN.ipynb)  
+4. [Implement an RNN](https://github.com/Exorust/TorchLeet/torch/medium/m3/RNN.ipynb) [(Solution)](https://github.com/Exorust/TorchLeet/torch/medium/m3/RNN_SOLN.ipynb)  
+5. [Use `torchvision.transforms` to apply data augmentation](https://github.com/Exorust/TorchLeet/torch/medium/m4/augmentation.ipynb) [(Solution)](https://github.com/Exorust/TorchLeet/torch/medium/m4/augmentation_SOLN.ipynb)  
+6. [Add a benchmark to your PyTorch code](https://github.com/Exorust/TorchLeet/torch/medium/m5/bench.ipynb) [(Solution)](https://github.com/Exorust/TorchLeet/torch/medium/m5/bench_SOLN.ipynb)  
+7. [Train an autoencoder for anomaly detection](https://github.com/Exorust/TorchLeet/torch/medium/m6/autoencoder.ipynb) [(Solution)](https://github.com/Exorust/TorchLeet/torch/medium/m6/autoencoder_SOLN.ipynb)  
 
 ### 🔴Hard
-1. [Write a custom Autograd function for activation (SILU)](https://github.com/Exorust/TorchLeet/blob/main/h1/custom-autgrad-function.ipynb) [(Solution)](https://github.com/Exorust/TorchLeet/blob/main/h1/custom-autgrad-function_SOLN.ipynb)
+1. [Write a custom Autograd function for activation (SILU)](https://github.com/Exorust/TorchLeet/torch/hard/h1/custom-autgrad-function.ipynb) [(Solution)](https://github.com/Exorust/TorchLeet/torch/hard/h1/custom-autgrad-function_SOLN.ipynb)
 2. Write a Neural Style Transfer  
-3. [Write a Transformer](https://github.com/Exorust/TorchLeet/blob/main/h3/transformer.ipynb) [(Solution)](https://github.com/Exorust/TorchLeet/blob/main/h3/transformer_SOLN.ipynb)  
-4. [Write a GAN](https://github.com/Exorust/TorchLeet/blob/main/h4/GAN.ipynb) [(Solution)](https://github.com/Exorust/TorchLeet/blob/main/h4/GAN_SOLN.ipynb)  
-5. [Write Sequence-to-Sequence with Attention](https://github.com/Exorust/TorchLeet/blob/main/h5/seq-to-seq-with-Attention.ipynb) [(Solution)](https://github.com/Exorust/TorchLeet/blob/main/h5/seq-to-seq-with-Attention_SOLN.ipynb)  
-6. [Quantize your language model](https://github.com/Exorust/TorchLeet/blob/main/h6/quantize-language-model.ipynb) [(Solution)](https://github.com/Exorust/TorchLeet/blob/main/h6/quantize-language-model_SOLN.ipynb)
+3. [Write a Transformer](https://github.com/Exorust/TorchLeet/torch/hard/h3/transformer.ipynb) [(Solution)](https://github.com/Exorust/TorchLeet/torch/hard/h3/transformer_SOLN.ipynb)  
+4. [Write a GAN](https://github.com/Exorust/TorchLeet/torch/hard/h4/GAN.ipynb) [(Solution)](https://github.com/Exorust/TorchLeet/torch/hard/h4/GAN_SOLN.ipynb)  
+5. [Write Sequence-to-Sequence with Attention](https://github.com/Exorust/TorchLeet/torch/hard/h5/seq-to-seq-with-Attention.ipynb) [(Solution)](https://github.com/Exorust/TorchLeet/torch/hard/h5/seq-to-seq-with-Attention_SOLN.ipynb)  
+6. [Quantize your language model](https://github.com/Exorust/TorchLeet/torch/hard/h6/quantize-language-model.ipynb) [(Solution)](https://github.com/Exorust/TorchLeet/torch/hard/h6/quantize-language-model_SOLN.ipynb)
 7. [Enable distributed training in pytorch (DistributedDataParallel)]
 8. [Work with Sparse Tensors]
-9. [Implement Mixed Precision Training using torch.cuda.amp](https://github.com/Exorust/TorchLeet/blob/main/h9/cuda-amp.ipynb) [(Solution)](https://github.com/Exorust/TorchLeet/blob/main/h9/cuda-amp_SOLN.ipynb)
-10. [Add GradCam/SHAP to explain the model.](https://github.com/Exorust/TorchLeet/blob/main/h10/xai.ipynb) [(Solution)](https://github.com/Exorust/TorchLeet/blob/main/h10/xai_SOLN.ipynb)
+9. [Implement Mixed Precision Training using torch.cuda.amp](https://github.com/Exorust/TorchLeet/torch/hard/h9/cuda-amp.ipynb) [(Solution)](https://github.com/Exorust/TorchLeet/torch/hard/h9/cuda-amp_SOLN.ipynb)
+10. [Add GradCam/SHAP to explain the model.](https://github.com/Exorust/TorchLeet/torch/hard/h10/xai.ipynb) [(Solution)](https://github.com/Exorust/TorchLeet/torch/hard/h10/xai_SOLN.ipynb)
 
 
 ## LLM Set
@@ -70,16 +70,29 @@ TorchLeet is a curated set of PyTorch practice problems, inspired by LeetCode-st
 
 1. Implement KL Divergence Loss
 2. Implement RMS Norm
-3. Implement Byte Pair Encoding from Scratch
-4. Create an embeddings out of an LLM
+<<<<<<< HEAD
+3. [Implement Byte Pair Encoding from Scratch](https://github.com/Exorust/TorchLeet/torch/llm/Byte-Pair-Encoding/BPE-q3-Question.ipynb) [(Solution)](https://github.com/Exorust/TorchLeet/torch/llm/Byte-Pair-Encoding/BPE-q3.ipynb)
+4. [Create an embeddings out of an LLM](https://github.com/Exorust/TorchLeet/torch/llm/Create-Embeddings-out-of-an-LLM/embeddings-q2-Question.ipynb)[(Solution)](https://github.com/Exorust/TorchLeet/torch/llm/Create-Embeddings-out-of-an-LLM/embeddings-q2.ipynb)
 5. Implement Predictive Prefill with Speculative Decoding
-6. Implement Attention from Scratch 
-7. Implement Multi-Head Attention from Scratch
-8. Implement Grouped Query Attention from Scratch
+6. [Implement Attention from Scratch ](https://github.com/Exorust/TorchLeet/torch/llm/Implement-Attention-from-Scratch/attention-q4-Question.ipynb)[(Solution)](https://github.com/Exorust/TorchLeet/torch/llm/Implement-Attention-from-Scratch/attention-q4.ipynb)
+7. [Implement Multi-Head Attention from Scratch](https://github.com/Exorust/TorchLeet/torch/llm/Multi-Head-Attention/multi-head-attention-q5-Question.ipynb)[(Solution)](https://github.com/Exorust/TorchLeet/torch/llm/Multi-Head-Attention/multi-head-attention-q5.ipynb)
+8. [Implement Grouped Query Attention from Scratch](https://github.com/Exorust/TorchLeet/torch/llm/Grouped-Query-Attention/grouped-query-attention-Question.ipynb)[(Solution)](https://github.com/Exorust/TorchLeet/torch/llm/Grouped-Query-Attention/grouped-query-attention.ipynb)
 9. Implement KV Cache in Multi-Head Attention from Scratch
-10. Implement Sinusoidal Embeddings
-11. Implement ROPE Embeddings
+10. [Implement Sinusoidal Embeddings](https://github.com/Exorust/TorchLeet/torch/llm/Sinusoidal-Positional-Embedding/sinusoidal-q7-Question.ipynb)[(Solution)](https://github.com/Exorust/TorchLeet/torch/llm/Sinusoidal-Positional-Embedding/sinusoidal-q7.ipynb)
+11. [Implement ROPE Embeddings](https://github.com/Exorust/TorchLeet/torch/llm/Rotary-Positional-Embedding/rope-q8-Question.ipynb)[(Solution)](https://github.com/Exorust/TorchLeet/torch/llm/Rotary-Positional-Embedding/rope-q8.ipynb)
+12. [Implement SmolLM from Scratch](https://github.com/Exorust/TorchLeet/torch/llm/SmolLM/smollm-q12-Question.ipynb)[(Solution)](https://github.com/Exorust/TorchLeet/torch/llm/SmolLM/smollm-q12.ipynb)
+=======
+3. [Implement Byte Pair Encoding from Scratch](https://github.com/AtulAravindDas/TorchLeet/blob/ff5b96d6f99ccdc7d94e86efe873875065107754/llm/BPE-q3.ipynb)
+4. [Create an embeddings out of an LLM](https://github.com/AtulAravindDas/TorchLeet/blob/ff5b96d6f99ccdc7d94e86efe873875065107754/llm/embeddings-q2.ipynb)
+5. Implement Predictive Prefill with Speculative Decoding
+6. [Implement Attention from Scratch](https://github.com/AtulAravindDas/TorchLeet/blob/ff5b96d6f99ccdc7d94e86efe873875065107754/llm/attention-q4.ipynb)
+7. [Implement Multi-Head Attention from Scratch](https://github.com/AtulAravindDas/TorchLeet/blob/ff5b96d6f99ccdc7d94e86efe873875065107754/llm/multi-head-attention-q5.ipynb)
+8. [Implement Grouped Query Attention from Scratch](https://github.com/AtulAravindDas/TorchLeet/blob/ff5b96d6f99ccdc7d94e86efe873875065107754/llm/grouped-query-attention.ipynb)
+9. Implement KV Cache in Multi-Head Attention from Scratch
+10. [Implement Sinusoidal Embeddings](https://github.com/AtulAravindDas/TorchLeet/blob/ff5b96d6f99ccdc7d94e86efe873875065107754/llm/sinusoidal-q7.ipynb)
+11. [Implement ROPE Embeddings](https://github.com/AtulAravindDas/TorchLeet/blob/ff5b96d6f99ccdc7d94e86efe873875065107754/llm/rope-q8.ipynb)
 12. Implement SmolLM from Scratch
+>>>>>>> f7ccb8c2d0e1fa785455ec89f792cf8b607ac936
 13. Implement Quantization of Models
     a. Types of Quantization
 14. Implement Beam Search atop LLM for decoding
