@@ -11,7 +11,7 @@
 </div>
 <br/>
 
-TorchLeet is a curated set of PyTorch practice problems, inspired by LeetCode-style challenges, designed to enhance your skills in deep learning and PyTorch. NOW WITH LLMS!
+TorchLeet is a curated set of PyTorch practice problems, inspired by LeetCode-style challenges, designed to enhance your skills in deep learning and PyTorch. **NOW WITH LLMS!**
 
 ## Table of Contents
 - [TorchLeet](#torchleet)
@@ -50,6 +50,8 @@ TorchLeet is a curated set of PyTorch practice problems, inspired by LeetCode-st
 5. [Use `torchvision.transforms` to apply data augmentation](https://github.com/Exorust/TorchLeet/torch/medium/m4/augmentation.ipynb) [(Solution)](https://github.com/Exorust/TorchLeet/torch/medium/m4/augmentation_SOLN.ipynb)  
 6. [Add a benchmark to your PyTorch code](https://github.com/Exorust/TorchLeet/torch/medium/m5/bench.ipynb) [(Solution)](https://github.com/Exorust/TorchLeet/torch/medium/m5/bench_SOLN.ipynb)  
 7. [Train an autoencoder for anomaly detection](https://github.com/Exorust/TorchLeet/torch/medium/m6/autoencoder.ipynb) [(Solution)](https://github.com/Exorust/TorchLeet/torch/medium/m6/autoencoder_SOLN.ipynb)  
+
+** Finding these too easy? Try implementing from scratch in empty ntbk**
 
 ### 🔴Hard
 1. [Write a custom Autograd function for activation (SILU)](https://github.com/Exorust/TorchLeet/torch/hard/h1/custom-autgrad-function.ipynb) [(Solution)](https://github.com/Exorust/TorchLeet/torch/hard/h1/custom-autgrad-function_SOLN.ipynb)
