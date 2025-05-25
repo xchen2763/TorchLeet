@@ -51,6 +51,7 @@ TorchLeet is a curated set of PyTorch practice problems, inspired by LeetCode-st
 6. [Add a benchmark to your PyTorch code](https://github.com/Exorust/TorchLeet/torch/medium/m5/bench.ipynb) [(Solution)](https://github.com/Exorust/TorchLeet/torch/medium/m5/bench_SOLN.ipynb)  
 7. [Train an autoencoder for anomaly detection](https://github.com/Exorust/TorchLeet/torch/medium/m6/autoencoder.ipynb) [(Solution)](https://github.com/Exorust/TorchLeet/torch/medium/m6/autoencoder_SOLN.ipynb)
 8. Implement AlexNet from scratch 
+9. Build a Dense Retrieval System using PyTorch
 
 ** Finding these too easy? Try implementing from scratch in empty ntbk**
 
