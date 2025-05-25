@@ -52,6 +52,7 @@ TorchLeet is a curated set of PyTorch practice problems, inspired by LeetCode-st
 7. [Train an autoencoder for anomaly detection](https://github.com/Exorust/TorchLeet/torch/medium/m6/autoencoder.ipynb) [(Solution)](https://github.com/Exorust/TorchLeet/torch/medium/m6/autoencoder_SOLN.ipynb)
 8. Implement AlexNet from scratch 
 9. Build a Dense Retrieval System using PyTorch
+10. Implement KNN from scratch in PyTorch
 
 ** Finding these too easy? Try implementing from scratch in empty ntbk**
 
@@ -66,14 +67,17 @@ TorchLeet is a curated set of PyTorch practice problems, inspired by LeetCode-st
 8. [Work with Sparse Tensors]
 9. [Implement Mixed Precision Training using torch.cuda.amp](https://github.com/Exorust/TorchLeet/torch/hard/h9/cuda-amp.ipynb) [(Solution)](https://github.com/Exorust/TorchLeet/torch/hard/h9/cuda-amp_SOLN.ipynb)
 10. [Add GradCam/SHAP to explain the model.](https://github.com/Exorust/TorchLeet/torch/hard/h10/xai.ipynb) [(Solution)](https://github.com/Exorust/TorchLeet/torch/hard/h10/xai_SOLN.ipynb)
-
+11. Linear Probe on CLIP Features
+12. Add Cross Modal Embedding Visualization to CLIP (t-SNE/UMAP)
+13. Implement a Vision Transformer
+14. Implement a Variational Autoencoder
 
 ## LLM Set
 
 **An all new set of questions to help you understand and implement Large Language Models from scratch.**
 
 1. Implement KL Divergence Loss
-2. Implement RMS ~~Norm~~
+2. Implement RMS Norm
 3. [Implement Byte Pair Encoding from Scratch](https://github.com/Exorust/TorchLeet/torch/llm/Byte-Pair-Encoding/BPE-q3-Question.ipynb) [(Solution)](https://github.com/Exorust/TorchLeet/torch/llm/Byte-Pair-Encoding/BPE-q3.ipynb)
 4. [Create an embeddings out of an LLM](https://github.com/Exorust/TorchLeet/torch/llm/Create-Embeddings-out-of-an-LLM/embeddings-q2-Question.ipynb)[(Solution)](https://github.com/Exorust/TorchLeet/torch/llm/Create-Embeddings-out-of-an-LLM/embeddings-q2.ipynb)
 5. Implement Predictive Prefill with Speculative Decoding
