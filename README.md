@@ -31,7 +31,9 @@ TorchLeet is a curated set of PyTorch practice problems, inspired by LeetCode-st
 
 ## Question Set
 
-### 🟢Easy
+### 🔵Basic
+Mostly for beginners to get started with PyTorch.
+
 1. [Implement linear regression](https://github.com/Exorust/TorchLeet/torch/easy/e1/lin-regression.ipynb) [(Solution)](https://github.com/Exorust/TorchLeet/torch/easy/e1/lin-regression_SOLN.ipynb)
 2. [Write a custom Dataset and Dataloader to load from a CSV file](https://github.com/Exorust/TorchLeet/torch/easy/e2/custom-dataset.ipynb) [(Solution)](https://github.com/Exorust/TorchLeet/torch/easy/e2/custom-dataset_SOLN.ipynb) 
 3. [Write a custom activation function (Simple)](https://github.com/Exorust/TorchLeet/torch/easy/e3/custom-activation.ipynb) [(Solution)](https://github.com/Exorust/TorchLeet/blob/main/e3/custom-activation_SOLN.ipynb)
@@ -40,32 +42,41 @@ TorchLeet is a curated set of PyTorch practice problems, inspired by LeetCode-st
 6. [Visualize Training Progress with TensorBoard in PyTorch](https://github.com/Exorust/TorchLeet/torch/easy/e6/tensorboard.ipynb) [(Solution)](https://github.com/Exorust/TorchLeet/torch/easy/e6/tensorboard_SOLN.ipynb)  
 7. [Save and Load Your PyTorch Model](https://github.com/Exorust/TorchLeet/torch/easy/e7/save_model.ipynb) [(Solution)](https://github.com/Exorust/TorchLeet/torch/easy/e7/save_model_SOLN.ipynb) 
 10. Implement Softmax function from scratch
-
-
-### 🟡Medium 
+    
+### 🟢Easy
+Recommended for those who have a basic understanding of PyTorch and want to practice their skills.
 1. [Implement an LSTM](https://github.com/Exorust/TorchLeet/torch/medium/m1/LSTM.ipynb) [(Solution)](https://github.com/Exorust/TorchLeet/torch/medium/m1/LSTM_SOLN.ipynb)  
 2. [Implement a CNN on CIFAR-10](https://github.com/Exorust/TorchLeet/torch/medium/m2/CNN.ipynb) [(Solution)](https://github.com/Exorust/TorchLeet/torch/medium/m2/CNN_SOLN.ipynb)  
-3. [Implement parameter initialization for a CNN]() [(Solution)]()
 4. [Implement an RNN](https://github.com/Exorust/TorchLeet/torch/medium/m3/RNN.ipynb) [(Solution)](https://github.com/Exorust/TorchLeet/torch/medium/m3/RNN_SOLN.ipynb)  
 5. [Use `torchvision.transforms` to apply data augmentation](https://github.com/Exorust/TorchLeet/torch/medium/m4/augmentation.ipynb) [(Solution)](https://github.com/Exorust/TorchLeet/torch/medium/m4/augmentation_SOLN.ipynb)  
 6. [Add a benchmark to your PyTorch code](https://github.com/Exorust/TorchLeet/torch/medium/m5/bench.ipynb) [(Solution)](https://github.com/Exorust/TorchLeet/torch/medium/m5/bench_SOLN.ipynb)  
 7. [Train an autoencoder for anomaly detection](https://github.com/Exorust/TorchLeet/torch/medium/m6/autoencoder.ipynb) [(Solution)](https://github.com/Exorust/TorchLeet/torch/medium/m6/autoencoder_SOLN.ipynb)
-8. Implement AlexNet from scratch 
-9. Build a Dense Retrieval System using PyTorch
-10. Implement KNN from scratch in PyTorch
+6. [Quantize your language model](https://github.com/Exorust/TorchLeet/torch/hard/h6/quantize-language-model.ipynb) [(Solution)](https://github.com/Exorust/TorchLeet/torch/hard/h6/quantize-language-model_SOLN.ipynb)
+9. [Implement Mixed Precision Training using torch.cuda.amp](https://github.com/Exorust/TorchLeet/torch/hard/h9/cuda-amp.ipynb) [(Solution)](https://github.com/Exorust/TorchLeet/torch/hard/h9/cuda-amp_SOLN.ipynb)
+   
+### 🟡Medium 
+These problems are designed to challenge your understanding of PyTorch and deep learning concepts. They require you to implement things from scratch or apply advanced techniques.
+1. [Implement parameter initialization for a CNN]() [(Solution)]()
+2. Implement a CNN from Scratch
+3. Implement an RNN from Scratch
+4. Implement an LSTM from Scratch
+6. Implement AlexNet from scratch 
+7. Build a Dense Retrieval System using PyTorch
+8.  Implement KNN from scratch in PyTorch
 
-** Finding these too easy? Try implementing from scratch in empty ntbk**
+** Finding these too easy? Try implementing in an empty ntbk**
 
 ### 🔴Hard
+These problems are for advanced users who want to push their PyTorch skills to the limit. They involve complex architectures, custom layers, and advanced techniques.
 1. [Write a custom Autograd function for activation (SILU)](https://github.com/Exorust/TorchLeet/torch/hard/h1/custom-autgrad-function.ipynb) [(Solution)](https://github.com/Exorust/TorchLeet/torch/hard/h1/custom-autgrad-function_SOLN.ipynb)
 2. Write a Neural Style Transfer  
-3. [Write a Transformer](https://github.com/Exorust/TorchLeet/torch/hard/h3/transformer.ipynb) [(Solution)](https://github.com/Exorust/TorchLeet/torch/hard/h3/transformer_SOLN.ipynb)  
-4. [Write a GAN](https://github.com/Exorust/TorchLeet/torch/hard/h4/GAN.ipynb) [(Solution)](https://github.com/Exorust/TorchLeet/torch/hard/h4/GAN_SOLN.ipynb)  
-5. [Write Sequence-to-Sequence with Attention](https://github.com/Exorust/TorchLeet/torch/hard/h5/seq-to-seq-with-Attention.ipynb) [(Solution)](https://github.com/Exorust/TorchLeet/torch/hard/h5/seq-to-seq-with-Attention_SOLN.ipynb)  
-6. [Quantize your language model](https://github.com/Exorust/TorchLeet/torch/hard/h6/quantize-language-model.ipynb) [(Solution)](https://github.com/Exorust/TorchLeet/torch/hard/h6/quantize-language-model_SOLN.ipynb)
-7. [Enable distributed training in pytorch (DistributedDataParallel)]
-8. [Work with Sparse Tensors]
-9. [Implement Mixed Precision Training using torch.cuda.amp](https://github.com/Exorust/TorchLeet/torch/hard/h9/cuda-amp.ipynb) [(Solution)](https://github.com/Exorust/TorchLeet/torch/hard/h9/cuda-amp_SOLN.ipynb)
+3. Build a Graph Neural Network (GNN) from scratch
+4. Build a Graph Convolutional Network (GCN) from scratch
+5. [Write a Transformer](https://github.com/Exorust/TorchLeet/torch/hard/h3/transformer.ipynb) [(Solution)](https://github.com/Exorust/TorchLeet/torch/hard/h3/transformer_SOLN.ipynb)  
+6. [Write a GAN](https://github.com/Exorust/TorchLeet/torch/hard/h4/GAN.ipynb) [(Solution)](https://github.com/Exorust/TorchLeet/torch/hard/h4/GAN_SOLN.ipynb)  
+7. [Write Sequence-to-Sequence with Attention](https://github.com/Exorust/TorchLeet/torch/hard/h5/seq-to-seq-with-Attention.ipynb) [(Solution)](https://github.com/Exorust/TorchLeet/torch/hard/h5/seq-to-seq-with-Attention_SOLN.ipynb)  
+8. [Enable distributed training in pytorch (DistributedDataParallel)]
+9. [Work with Sparse Tensors]
 10. [Add GradCam/SHAP to explain the model.](https://github.com/Exorust/TorchLeet/torch/hard/h10/xai.ipynb) [(Solution)](https://github.com/Exorust/TorchLeet/torch/hard/h10/xai_SOLN.ipynb)
 11. Linear Probe on CLIP Features
 12. Add Cross Modal Embedding Visualization to CLIP (t-SNE/UMAP)
@@ -89,12 +100,13 @@ TorchLeet is a curated set of PyTorch practice problems, inspired by LeetCode-st
 11. [Implement ROPE Embeddings](https://github.com/Exorust/TorchLeet/torch/llm/Rotary-Positional-Embedding/rope-q8-Question.ipynb)[(Solution)](https://github.com/Exorust/TorchLeet/torch/llm/Rotary-Positional-Embedding/rope-q8.ipynb)
 12. [Implement SmolLM from Scratch](https://github.com/Exorust/TorchLeet/torch/llm/SmolLM/smollm-q12-Question.ipynb)[(Solution)](https://github.com/Exorust/TorchLeet/torch/llm/SmolLM/smollm-q12.ipynb)
 13. Implement Quantization of Models
-    a. Types of Quantization
+    1.  GPTQ
 14. Implement Beam Search atop LLM for decoding
 15. Implement Top K Sampling atop LLM for decoding
 16. Implement Top p Sampling atop LLM for decoding
 17. Implement Temperature Sampling atop LLM for decoding
 18. Implement LoRA on a layer of an LLM
+    1.  QLoRA?
 19. Mix two models to create a mixture of Experts
 20. Apply SFT on SmolLM 
 21. Apply RLHF on SmolLM
