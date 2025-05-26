@@ -3,7 +3,7 @@
   <!-- <h1>TorchLeet</h1> -->
   <p align="center">
     🐦 <a href="https://twitter.com/charoori_ai">Follow me on Twitter</a> •
-    📧 <a href="https://github.com/Exorust/TorchLeet/tree/new-llm?tab=readme-ov-file#llm-set">Jump to LLMs!</a>
+    ➡️ <a href="https://github.com/Exorust/TorchLeet/tree/new-llm?tab=readme-ov-file#llm-set">Jump to LLMs!</a>
     📧 <a href="mailto:chandrahas.aroori@gmail.com?subject=LLM%20Cookbook">Feedback</a>
   </p>
   <p>
@@ -100,15 +100,15 @@ Each question is designed to take you one step closer to building your own LLM.
 1. Implement KL Divergence Loss
 2. Implement RMS Norm
 3. [Implement Byte Pair Encoding from Scratch](llm/Byte-Pair-Encoding/BPE-q3-Question.ipynb) [(Solution)](llm/Byte-Pair-Encoding/BPE-q3.ipynb)
-4. [Create an embeddings out of an LLM](llm/Create-Embeddings-out-of-an-LLM/embeddings-q2-Question.ipynb)[(Solution)](llm/Create-Embeddings-out-of-an-LLM/embeddings-q2.ipynb)
+4. Create a RAG Search of Embeddings from a set of Reviews
 5. Implement Predictive Prefill with Speculative Decoding
-6. [Implement Attention from Scratch](llm/Implement-Attention-from-Scratch/attention-q4-Question.ipynb)[(Solution)](llm/Implement-Attention-from-Scratch/attention-q4.ipynb)
-7. [Implement Multi-Head Attention from Scratch](llm/Multi-Head-Attention/multi-head-attention-q5-Question.ipynb)[(Solution)](llm/Multi-Head-Attention/multi-head-attention-q5.ipynb)
-8. [Implement Grouped Query Attention from Scratch](llm/Grouped-Query-Attention/grouped-query-attention-Question.ipynb)[(Solution)](llm/Grouped-Query-Attention/grouped-query-attention.ipynb)
+6. [Implement Attention from Scratch](llm/Implement-Attention-from-Scratch/attention-q4-Question.ipynb) [(Solution)](llm/Implement-Attention-from-Scratch/attention-q4.ipynb)
+7. [Implement Multi-Head Attention from Scratch](llm/Multi-Head-Attention/multi-head-attention-q5-Question.ipynb) [(Solution)](llm/Multi-Head-Attention/multi-head-attention-q5.ipynb)
+8. [Implement Grouped Query Attention from Scratch](llm/Grouped-Query-Attention/grouped-query-attention-Question.ipynb) [(Solution)](llm/Grouped-Query-Attention/grouped-query-attention.ipynb)
 9. Implement KV Cache in Multi-Head Attention from Scratch
-10. [Implement Sinusoidal Embeddings](llm/Sinusoidal-Positional-Embedding/sinusoidal-q7-Question.ipynb)[(Solution)](llm/Sinusoidal-Positional-Embedding/sinusoidal-q7.ipynb)
-11. [Implement ROPE Embeddings](llm/Rotary-Positional-Embedding/rope-q8-Question.ipynb)[(Solution)](llm/Rotary-Positional-Embedding/rope-q8.ipynb)
-12. [Implement SmolLM from Scratch](llm/SmolLM/smollm-q12-Question.ipynb)[(Solution)](llm/SmolLM/smollm-q12.ipynb)
+10. [Implement Sinusoidal Embeddings](llm/Sinusoidal-Positional-Embedding/sinusoidal-q7-Question.ipynb) [(Solution)](llm/Sinusoidal-Positional-Embedding/sinusoidal-q7.ipynb)
+11. [Implement ROPE Embeddings](llm/Rotary-Positional-Embedding/rope-q8-Question.ipynb) [(Solution)](llm/Rotary-Positional-Embedding/rope-q8.ipynb)
+12. [Implement SmolLM from Scratch](llm/SmolLM/smollm-q12-Question.ipynb) [(Solution)](llm/SmolLM/smollm-q12.ipynb)
 13. Implement Quantization of Models
     1.  GPTQ
 14. Implement Beam Search atop LLM for decoding
