@@ -46,7 +46,7 @@ Mostly for beginners to get started with PyTorch.
 ### 🟢Easy
 Recommended for those who have a basic understanding of PyTorch and want to practice their skills.
 1. [Implement a CNN on CIFAR-10](https://github.com/Exorust/TorchLeet/torch/medium/m2/CNN.ipynb) [(Solution)](https://github.com/Exorust/TorchLeet/torch/medium/m2/CNN_SOLN.ipynb)  
-2. [Implement an RNN](https://github.com/Exorust/TorchLeet/torch/medium/m3/RNN.ipynb) [(Solution)](https://github.com/Exorust/TorchLeet/torch/medium/m3/RNN_SOLN.ipynb)  
+2. [Implement an RNN from Scratch](https://github.com/Exorust/TorchLeet/torch/medium/m3/RNN.ipynb) [(Solution)](https://github.com/Exorust/TorchLeet/torch/medium/m3/RNN_SOLN.ipynb)  
 3. [Use `torchvision.transforms` to apply data augmentation](https://github.com/Exorust/TorchLeet/torch/medium/m4/augmentation.ipynb) [(Solution)](https://github.com/Exorust/TorchLeet/torch/medium/m4/augmentation_SOLN.ipynb)  
 4. [Add a benchmark to your PyTorch code](https://github.com/Exorust/TorchLeet/torch/medium/m5/bench.ipynb) [(Solution)](https://github.com/Exorust/TorchLeet/torch/medium/m5/bench_SOLN.ipynb)  
 5. [Train an autoencoder for anomaly detection](https://github.com/Exorust/TorchLeet/torch/medium/m6/autoencoder.ipynb) [(Solution)](https://github.com/Exorust/TorchLeet/torch/medium/m6/autoencoder_SOLN.ipynb)
@@ -56,12 +56,11 @@ Recommended for those who have a basic understanding of PyTorch and want to prac
 ### 🟡Medium 
 These problems are designed to challenge your understanding of PyTorch and deep learning concepts. They require you to implement things from scratch or apply advanced techniques.
 1. [Implement parameter initialization for a CNN]() [(Solution)]()
-2. Implement a CNN from Scratch
-3. Implement an RNN from Scratch
-4. [Implement an LSTM from Scratch](https://github.com/Exorust/TorchLeet/torch/medium/m1/LSTM.ipynb) [(Solution)](https://github.com/Exorust/TorchLeet/torch/medium/m1/LSTM_SOLN.ipynb)  
-6. Implement AlexNet from scratch 
-7. Build a Dense Retrieval System using PyTorch
-8.  Implement KNN from scratch in PyTorch
+2. [Implement a CNN from Scratch]() 
+3. [Implement an LSTM from Scratch](https://github.com/Exorust/TorchLeet/torch/medium/m1/LSTM.ipynb) [(Solution)](https://github.com/Exorust/TorchLeet/torch/medium/m1/LSTM_SOLN.ipynb)  
+4. Implement AlexNet from scratch 
+5. Build a Dense Retrieval System using PyTorch
+6.  Implement KNN from scratch in PyTorch
 
 ** Finding these too easy? Try implementing in an empty ntbk**
 
