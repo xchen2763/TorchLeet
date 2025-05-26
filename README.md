@@ -3,6 +3,7 @@
   <!-- <h1>TorchLeet</h1> -->
   <p align="center">
     🐦 <a href="https://twitter.com/charoori_ai">Follow me on Twitter</a> •
+    📧 <a href="https://github.com/Exorust/TorchLeet/tree/new-llm?tab=readme-ov-file#llm-set">Jump to LLMs!</a>
     📧 <a href="mailto:chandrahas.aroori@gmail.com?subject=LLM%20Cookbook">Feedback</a>
   </p>
   <p>
@@ -11,23 +12,25 @@
 </div>
 <br/>
 
-TorchLeet is a curated set of PyTorch practice problems, inspired by LeetCode-style challenges, designed to enhance your skills in deep learning and PyTorch. **NOW WITH LLMS!**
+TorchLeet is broken into two sets of questions:
+1. **Question Set**: A collection of PyTorch practice problems, ranging from basic to hard, designed to enhance your skills in deep learning and PyTorch.
+2. **LLM Set**: A new set of questions focused on understanding and implementing Large Language Models (LLMs) from scratch, including attention mechanisms, embeddings, and more.
+3. 
+> [!NOTE]
+> Avoid using GPT. Try to solve these problems on your own. The goal is to learn and understand PyTorch concepts deeply.
 
 ## Table of Contents
-- [TorchLeet](#torchleet)
-  - [Table of Contents](#table-of-contents)
-  - [Question Set](#question-set)
-    - [🔵Basic](#basic)
-    - [🟢Easy](#easy)
-    - [🟡Medium](#medium)
-    - [🔴Hard](#hard)
-  - [LLM Set](#llm-set)
-  - [Getting Started](#getting-started)
-    - [1. Install Dependencies](#1-install-dependencies)
-    - [2. Structure](#2-structure)
-    - [3. How to Use](#3-how-to-use)
+- [Question Set](#question-set)
+ - [🔵Basic](#basic)
+ - [🟢Easy](#easy)
+ - [🟡Medium](#medium)
+ - [🔴Hard](#hard)
+- [LLM Set](#llm-set)
+- [Getting Started](#getting-started)
+ - [1. Install Dependencies](#1-install-dependencies)
+ - [2. Structure](#2-structure)
+ - [3. How to Use](#3-how-to-use)
 - [Contribution](#contribution)
-- [Authors:](#authors)
 
 
 ## Question Set
