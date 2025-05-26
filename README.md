@@ -21,15 +21,15 @@ TorchLeet is broken into two sets of questions:
 
 ## Table of Contents
 - [Question Set](#question-set)
- - [🔵Basic](#basic)
- - [🟢Easy](#easy)
- - [🟡Medium](#medium)
- - [🔴Hard](#hard)
+   - [🔵Basic](#basic)
+   - [🟢Easy](#easy)
+   - [🟡Medium](#medium)
+   - [🔴Hard](#hard)
 - [LLM Set](#llm-set)
 - [Getting Started](#getting-started)
- - [1. Install Dependencies](#1-install-dependencies)
- - [2. Structure](#2-structure)
- - [3. How to Use](#3-how-to-use)
+   - [1. Install Dependencies](#1-install-dependencies)
+   - [2. Structure](#2-structure)
+   - [3. How to Use](#3-how-to-use)
 - [Contribution](#contribution)
 
 
@@ -46,7 +46,9 @@ Mostly for beginners to get started with PyTorch.
 6. [Visualize Training Progress with TensorBoard in PyTorch](torch/easy/e6/tensorboard.ipynb) [(Solution)](torch/easy/e6/tensorboard_SOLN.ipynb)  
 7. [Save and Load Your PyTorch Model](torch/easy/e7/save_model.ipynb) [(Solution)](torch/easy/e7/save_model_SOLN.ipynb) 
 10. Implement Softmax function from scratch
-    
+
+---
+
 ### 🟢Easy
 Recommended for those who have a basic understanding of PyTorch and want to practice their skills.
 1. [Implement a CNN on CIFAR-10](torch/medium/m2/CNN.ipynb) [(Solution)](torch/medium/m2/CNN_SOLN.ipynb)  
@@ -57,6 +59,8 @@ Recommended for those who have a basic understanding of PyTorch and want to prac
 6. [Quantize your language model](torch/hard/h6/quantize-language-model.ipynb) [(Solution)](torch/hard/h6/quantize-language-model_SOLN.ipynb)
 7. [Implement Mixed Precision Training using torch.cuda.amp](torch/hard/h9/cuda-amp.ipynb) [(Solution)](torch/hard/h9/cuda-amp_SOLN.ipynb)
    
+---
+
 ### 🟡Medium 
 These problems are designed to challenge your understanding of PyTorch and deep learning concepts. They require you to implement things from scratch or apply advanced techniques.
 1. [Implement parameter initialization for a CNN]() [(Solution)]()
@@ -65,6 +69,8 @@ These problems are designed to challenge your understanding of PyTorch and deep 
 4. Implement AlexNet from scratch 
 5. Build a Dense Retrieval System using PyTorch
 6.  Implement KNN from scratch in PyTorch
+
+---
 
 ### 🔴Hard
 These problems are for advanced users who want to push their PyTorch skills to the limit. They involve complex architectures, custom layers, and advanced techniques.
@@ -82,6 +88,8 @@ These problems are for advanced users who want to push their PyTorch skills to t
 12. Add Cross Modal Embedding Visualization to CLIP (t-SNE/UMAP)
 13. Implement a Vision Transformer
 14. Implement a Variational Autoencoder
+
+---
 
 ## LLM Set
 
@@ -108,7 +116,7 @@ Each question is designed to take you one step closer to building your own LLM.
 16. Implement Top p Sampling atop LLM for decoding
 17. Implement Temperature Sampling atop LLM for decoding
 18. Implement LoRA on a layer of an LLM
-    1.  QLoRA?
+    1.  QLoRA
 19. Mix two models to create a mixture of Experts
 20. Apply SFT on SmolLM 
 21. Apply RLHF on SmolLM
