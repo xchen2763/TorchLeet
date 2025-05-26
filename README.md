@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="torch.png" alt="Robot Image">
+  <img src="torchleet-llm.png" alt="Robot Image">
   <!-- <h1>TorchLeet</h1> -->
   <p align="center">
     🐦 <a href="https://twitter.com/charoori_ai">Follow me on Twitter</a> •
@@ -17,6 +17,7 @@ TorchLeet is a curated set of PyTorch practice problems, inspired by LeetCode-st
 - [TorchLeet](#torchleet)
   - [Table of Contents](#table-of-contents)
   - [Question Set](#question-set)
+    - [🔵Basic](#basic)
     - [🟢Easy](#easy)
     - [🟡Medium](#medium)
     - [🔴Hard](#hard)
@@ -82,6 +83,8 @@ These problems are for advanced users who want to push their PyTorch skills to t
 ## LLM Set
 
 **An all new set of questions to help you understand and implement Large Language Models from scratch.**
+
+Each question is designed to take you one step closer to building your own LLM.
 
 1. Implement KL Divergence Loss
 2. Implement RMS Norm
