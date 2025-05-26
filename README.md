@@ -34,8 +34,8 @@ TorchLeet is a curated set of PyTorch practice problems, inspired by LeetCode-st
 ### 🔵Basic
 Mostly for beginners to get started with PyTorch.
 
-1. [Implement linear regression](torch/easy/e1/lin-regression.ipynb) [(Solution)](torch/easy/e1/lin-regression_SOLN.ipynb)
-2. [Write a custom Dataset and Dataloader to load from a CSV file](torch/easy/e2/custom-dataset.ipynb) [(Solution)](torch/easy/e2/custom-dataset_SOLN.ipynb) 
+1. [Implement linear regression](torch/basic/lin-regression/lin-regression.ipynb) [(Solution)](torch/basic/lin-regression/lin-regression_SOLN.ipynb)
+2. [Write a custom Dataset and Dataloader to load from a CSV file](torch/basic/custom-dataset/custom-dataset.ipynb) [(Solution)](torch/basic/custom-dataset/custom-dataset_SOLN.ipynb) 
 3. [Write a custom activation function (Simple)](torch/easy/e3/custom-activation.ipynb) [(Solution)](torch/easy/e3/custom-activation_SOLN.ipynb)
 4. [Implement Custom Loss Function (Huber Loss)](torch/easy/e4/custom-loss.ipynb) [(Solution)](torch/easy/e4/custom-loss_SOLN.ipynb)  
 5. [Implement a Deep Neural Network](torch/easy/e5/custon-DNN.ipynb) [(Solution)](torch/easy/e5/custon-DNN_SOLN.ipynb)  
