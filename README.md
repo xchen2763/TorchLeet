@@ -52,10 +52,10 @@ Mostly for beginners to get started with PyTorch.
 ### 🟢Easy
 Recommended for those who have a basic understanding of PyTorch and want to practice their skills.
 1. [Implement a CNN on CIFAR-10](torch/easy/cnn/CNN.ipynb) [(Solution)](torch/easy/cnn/CNN_SOLN.ipynb)  
-2. [Implement an RNN from Scratch](torch/medium/m3/RNN.ipynb) [(Solution)](torch/medium/m3/RNN_SOLN.ipynb)  
-3. [Use `torchvision.transforms` to apply data augmentation](torch/medium/m4/augmentation.ipynb) [(Solution)](torch/medium/m4/augmentation_SOLN.ipynb)  
-4. [Add a benchmark to your PyTorch code](torch/medium/m5/bench.ipynb) [(Solution)](torch/medium/m5/bench_SOLN.ipynb)  
-5. [Train an autoencoder for anomaly detection](torch/medium/m6/autoencoder.ipynb) [(Solution)](torch/medium/m6/autoencoder_SOLN.ipynb)
+2. [Implement an RNN from Scratch](torch/easy/rnn/RNN.ipynb) [(Solution)](torch/easy/rnn/RNN_SOLN.ipynb)  
+3. [Use `torchvision.transforms` to apply data augmentation](torch/easy/augmentation/augmentation.ipynb) [(Solution)](torch/easy/augmentation/augmentation_SOLN.ipynb)  
+4. [Add a benchmark to your PyTorch code](torch/easy/benchmark/bench.ipynb) [(Solution)](torch/easy/benchmark/bench_SOLN.ipynb)  
+5. [Train an autoencoder for anomaly detection](torch/easy/autoencoder/autoencoder.ipynb) [(Solution)](torch/easy/autoencoder/autoencoder_SOLN.ipynb)
 6. [Quantize your language model](torch/easy/quantize-lm/quantize-language-model.ipynb) [(Solution)](torch/easy/quantize-lm/quantize-language-model_SOLN.ipynb)
 7. [Implement Mixed Precision Training using torch.cuda.amp](torch/easy/cuda-amp/cuda-amp.ipynb) [(Solution)](torch/easy/cuda-amp/cuda-amp_SOLN.ipynb)
    
@@ -99,7 +99,7 @@ Each question is designed to take you one step closer to building your own LLM.
 
 1. Implement KL Divergence Loss
 2. Implement RMS Norm
-3. [Implement Byte Pair Encoding from Scratch](llm/Byte-Pair-Encoding/BPE-q3-Question.ipynb) [(Solution)](llm/Byte-Pair-Encoding/BPE-q3.ipynb)
+3. [Implement Byte Pair Encoding from Scratch](llm/Byte-Pair-Encoder/BPE-q3.ipynb) [(Solution)](llm/Byte-Pair-Encoding/BPE-q3.ipynb)
 4. Create a RAG Search of Embeddings from a set of Reviews
 5. Implement Predictive Prefill with Speculative Decoding
 6. [Implement Attention from Scratch](llm/Implement-Attention-from-Scratch/attention-q4-Question.ipynb) [(Solution)](llm/Implement-Attention-from-Scratch/attention-q4.ipynb)
