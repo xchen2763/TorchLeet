@@ -40,24 +40,24 @@ Mostly for beginners to get started with PyTorch.
 
 1. [Implement linear regression](torch/basic/lin-regression/lin-regression.ipynb) [(Solution)](torch/basic/lin-regression/lin-regression_SOLN.ipynb)
 2. [Write a custom Dataset and Dataloader to load from a CSV file](torch/basic/custom-dataset/custom-dataset.ipynb) [(Solution)](torch/basic/custom-dataset/custom-dataset_SOLN.ipynb) 
-3. [Write a custom activation function (Simple)](torch/easy/e3/custom-activation.ipynb) [(Solution)](torch/easy/e3/custom-activation_SOLN.ipynb)
-4. [Implement Custom Loss Function (Huber Loss)](torch/easy/e4/custom-loss.ipynb) [(Solution)](torch/easy/e4/custom-loss_SOLN.ipynb)  
-5. [Implement a Deep Neural Network](torch/easy/e5/custon-DNN.ipynb) [(Solution)](torch/easy/e5/custon-DNN_SOLN.ipynb)  
-6. [Visualize Training Progress with TensorBoard in PyTorch](torch/easy/e6/tensorboard.ipynb) [(Solution)](torch/easy/e6/tensorboard_SOLN.ipynb)  
-7. [Save and Load Your PyTorch Model](torch/easy/e7/save_model.ipynb) [(Solution)](torch/easy/e7/save_model_SOLN.ipynb) 
+3. [Write a custom activation function (Simple)](torch/basic/custom-activation/custom-activation.ipynb) [(Solution)](torch/basic/custom-activation/custom-activation_SOLN.ipynb)
+4. [Implement Custom Loss Function (Huber Loss)](torch/basic/custom-loss/custom-loss.ipynb) [(Solution)](torch/basic/custom-loss/custom-loss_SOLN.ipynb)  
+5. [Implement a Deep Neural Network](torch/basic/custom-DNN/custon-DNN.ipynb) [(Solution)](torch/basic/custom-DNN/custon-DNN_SOLN.ipynb)  
+6. [Visualize Training Progress with TensorBoard in PyTorch](torch/basic/tensorboard/tensorboard.ipynb) [(Solution)](torch/basic/tensorboard/tensorboard_SOLN.ipynb)  
+7. [Save and Load Your PyTorch Model](torch/basic/save-model/save_model.ipynb) [(Solution)](torch/basic/save-model/save_model_SOLN.ipynb) 
 10. Implement Softmax function from scratch
 
 ---
 
 ### 🟢Easy
 Recommended for those who have a basic understanding of PyTorch and want to practice their skills.
-1. [Implement a CNN on CIFAR-10](torch/medium/m2/CNN.ipynb) [(Solution)](torch/medium/m2/CNN_SOLN.ipynb)  
+1. [Implement a CNN on CIFAR-10](torch/easy/cnn/CNN.ipynb) [(Solution)](torch/easy/cnn/CNN_SOLN.ipynb)  
 2. [Implement an RNN from Scratch](torch/medium/m3/RNN.ipynb) [(Solution)](torch/medium/m3/RNN_SOLN.ipynb)  
 3. [Use `torchvision.transforms` to apply data augmentation](torch/medium/m4/augmentation.ipynb) [(Solution)](torch/medium/m4/augmentation_SOLN.ipynb)  
 4. [Add a benchmark to your PyTorch code](torch/medium/m5/bench.ipynb) [(Solution)](torch/medium/m5/bench_SOLN.ipynb)  
 5. [Train an autoencoder for anomaly detection](torch/medium/m6/autoencoder.ipynb) [(Solution)](torch/medium/m6/autoencoder_SOLN.ipynb)
-6. [Quantize your language model](torch/hard/h6/quantize-language-model.ipynb) [(Solution)](torch/hard/h6/quantize-language-model_SOLN.ipynb)
-7. [Implement Mixed Precision Training using torch.cuda.amp](torch/hard/h9/cuda-amp.ipynb) [(Solution)](torch/hard/h9/cuda-amp_SOLN.ipynb)
+6. [Quantize your language model](torch/easy/quantize-lm/quantize-language-model.ipynb) [(Solution)](torch/easy/quantize-lm/quantize-language-model_SOLN.ipynb)
+7. [Implement Mixed Precision Training using torch.cuda.amp](torch/easy/cuda-amp/cuda-amp.ipynb) [(Solution)](torch/easy/cuda-amp/cuda-amp_SOLN.ipynb)
    
 ---
 
@@ -65,7 +65,7 @@ Recommended for those who have a basic understanding of PyTorch and want to prac
 These problems are designed to challenge your understanding of PyTorch and deep learning concepts. They require you to implement things from scratch or apply advanced techniques.
 1. [Implement parameter initialization for a CNN]() [(Solution)]()
 2. [Implement a CNN from Scratch]() 
-3. [Implement an LSTM from Scratch](torch/medium/m1/LSTM.ipynb) [(Solution)](torch/medium/m1/LSTM_SOLN.ipynb)  
+3. [Implement an LSTM from Scratch](torch/medium/lstm/LSTM.ipynb) [(Solution)](torch/medium/lstm/LSTM_SOLN.ipynb)  
 4. Implement AlexNet from scratch 
 5. Build a Dense Retrieval System using PyTorch
 6.  Implement KNN from scratch in PyTorch
@@ -74,16 +74,16 @@ These problems are designed to challenge your understanding of PyTorch and deep 
 
 ### 🔴Hard
 These problems are for advanced users who want to push their PyTorch skills to the limit. They involve complex architectures, custom layers, and advanced techniques.
-1. [Write a custom Autograd function for activation (SILU)](torch/hard/h1/custom-autgrad-function.ipynb) [(Solution)](torch/hard/h1/custom-autgrad-function_SOLN.ipynb)
+1. [Write a custom Autograd function for activation (SILU)](torch/hard/custom-autograd/custom-autgrad-function.ipynb) [(Solution)](torch/hard/custom-autograd/custom-autgrad-function_SOLN.ipynb)
 2. Write a Neural Style Transfer  
 3. Build a Graph Neural Network (GNN) from scratch
 4. Build a Graph Convolutional Network (GCN) from scratch
-5. [Write a Transformer](torch/hard/h3/transformer.ipynb) [(Solution)](torch/hard/h3/transformer_SOLN.ipynb)  
-6. [Write a GAN](torch/hard/h4/GAN.ipynb) [(Solution)](torch/hard/h4/GAN_SOLN.ipynb)  
-7. [Write Sequence-to-Sequence with Attention](torch/hard/h5/seq-to-seq-with-Attention.ipynb) [(Solution)](torch/hard/h5/seq-to-seq-with-Attention_SOLN.ipynb)  
+5. [Write a Transformer](torch/hard/transformer/transformer.ipynb) [(Solution)](torch/hard/transformer/transformer_SOLN.ipynb)  
+6. [Write a GAN](torch/hard/GAN/GAN.ipynb) [(Solution)](torch/hard/GAN/GAN_SOLN.ipynb)  
+7. [Write Sequence-to-Sequence with Attention](torch/hard/seq-seq/seq-to-seq-with-Attention.ipynb) [(Solution)](torch/hard/seq-seq/seq-to-seq-with-Attention_SOLN.ipynb)  
 8. [Enable distributed training in pytorch (DistributedDataParallel)]
 9. [Work with Sparse Tensors]
-10. [Add GradCam/SHAP to explain the model.](torch/hard/h10/xai.ipynb) [(Solution)](torch/hard/h10/xai_SOLN.ipynb)
+10. [Add GradCam/SHAP to explain the model.](torch/hard/xai/xai.ipynb) [(Solution)](torch/hard/xai/xai_SOLN.ipynb)
 11. Linear Probe on CLIP Features
 12. Add Cross Modal Embedding Visualization to CLIP (t-SNE/UMAP)
 13. Implement a Vision Transformer
@@ -121,9 +121,9 @@ Each question is designed to take you one step closer to building your own LLM.
 20. Apply SFT on SmolLM 
 21. Apply RLHF on SmolLM
 22. Implement DPO based RLHF
-23. Add continous batching to your LLM
-24. Chunk Textual Data for Dense Passage Retreival
-25. Implement Lage scale Training => 5D Parallelism
+23. Add continuous batching to your LLM
+24. Chunk Textual Data for Dense Passage Retrieval
+25. Implement Large scale Training => 5D Parallelism
 
 **What's cool? 🚀**
 - **Diverse Questions**: Covers beginner to advanced PyTorch concepts (e.g., tensors, autograd, CNNs, GANs, and more).
