@@ -99,7 +99,7 @@ Each question is designed to take you one step closer to building your own LLM.
 
 1. Implement KL Divergence Loss
 2. Implement RMS Norm
-3. [Implement Byte Pair Encoding from Scratch](llm/Byte-Pair-Encoder/BPE-q3.ipynb) [(Solution)](llm/Byte-Pair-Encoding/BPE-q3.ipynb)
+3. [Implement Byte Pair Encoding from Scratch](llm/Byte-Pair-Encoding/BPE-q3-Question.ipynb) [(Solution)](llm/Byte-Pair-Encoding/BPE-q3.ipynb)
 4. Create a RAG Search of Embeddings from a set of Reviews
 5. Implement Predictive Prefill with Speculative Decoding
 6. [Implement Attention from Scratch](llm/Implement-Attention-from-Scratch/attention-q4-Question.ipynb) [(Solution)](llm/Implement-Attention-from-Scratch/attention-q4.ipynb)
