@@ -64,12 +64,13 @@ Recommended for those who have a basic understanding of PyTorch and want to prac
 
 ### 🟡Medium 
 These problems are designed to challenge your understanding of PyTorch and deep learning concepts. They require you to implement things from scratch or apply advanced techniques.
-1. [Implement parameter initialization for a CNN]() [(Solution)]()
-2. [Implement a CNN from Scratch]() 
+1. [Implement parameter initialization for a CNN](torch/medium/cnn-param-init/CNN_ParamInit.ipynb) [(Solution)](torch/medium/cnn-param-init/CNN_ParamInit_SOLN.ipynb)
+2. [Implement a CNN from Scratch](torch/medium/cnn-scratch/CNN_scratch.ipynb) [(Solution)](torch/medium/cnn-scratch/CNN_scratch_SOLN.ipynb) 
 3. [Implement an LSTM from Scratch](torch/medium/lstm/LSTM.ipynb) [(Solution)](torch/medium/lstm/LSTM_SOLN.ipynb)  
 4. Implement AlexNet from scratch 
 5. Build a Dense Retrieval System using PyTorch
 6.  Implement KNN from scratch in PyTorch
+7.  [Train a 3D CNN network for segmenting CT images](torch/medium/3dcnn/3DCNN.ipynb) [Solution](torch/medium/3dcnn/3DCNN_SOLN.ipynb)
 
 ---
 
