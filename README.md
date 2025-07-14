@@ -4,7 +4,7 @@
   <p align="center">
     🐦 <a href="https://twitter.com/charoori_ai">Follow me on Twitter</a> •
     ➡️ <a href="https://github.com/Exorust/TorchLeet/tree/new-llm?tab=readme-ov-file#llm-set">Jump to LLMs!</a>
-    📧 <a href="mailto:chandrahas.aroori@gmail.com?subject=LLM%20Cookbook">Feedback</a>
+    📧 <a href="mailto:chandrahas.aroori@gmail.com?subject=Torchleet">Feedback</a>
   </p>
   <p>
     <a href="https://www.buymeacoffee.com/charoori_ai" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="39" width="170"></a>
