@@ -15,9 +15,10 @@
 TorchLeet is broken into two sets of questions:
 1. **Question Set**: A collection of PyTorch practice problems, ranging from basic to hard, designed to enhance your skills in deep learning and PyTorch.
 2. **LLM Set**: A new set of questions focused on understanding and implementing Large Language Models (LLMs) from scratch, including attention mechanisms, embeddings, and more.
-3. 
+
 > [!NOTE]
 > Avoid using GPT. Try to solve these problems on your own. The goal is to learn and understand PyTorch concepts deeply.
+> Yes. I used GPT to help write the code and I ended up testing it out myself as practise. I found the strategy to be super useful
 
 ## Table of Contents
 - [Question Set](#question-set)
@@ -99,7 +100,7 @@ Each question is designed to take you one step closer to building your own LLM.
 
 1. Implement KL Divergence Loss
 2. Implement RMS Norm
-3. [Implement Byte Pair Encoding from Scratch](llm/Byte-Pair-Encoding/BPE-q3-Question.ipynb) [(Solution)](llm/Byte-Pair-Encoding/BPE-q3.ipynb)
+3. [Implement Byte Pair Encoding from Scratch](llm/Byte-Pair-Encoding/BPE-q3.ipynb) [(Solution)](llm/Byte-Pair-Encoding/BPE-q3.ipynb)
 4. Create a RAG Search of Embeddings from a set of Reviews
 5. Implement Predictive Prefill with Speculative Decoding
 6. [Implement Attention from Scratch](llm/Implement-Attention-from-Scratch/attention-q4-Question.ipynb) [(Solution)](llm/Implement-Attention-from-Scratch/attention-q4.ipynb)
