@@ -12,6 +12,9 @@
 </div>
 <br/>
 
+> [!WHY? ]
+> I struggled to grind for ML/AI interviews so I went back to the basics and created a list after careful research. 
+
 TorchLeet is broken into two sets of questions:
 1. **Question Set**: A collection of PyTorch practice problems, ranging from basic to hard, designed to enhance your skills in deep learning and PyTorch.
 2. **LLM Set**: A new set of questions focused on understanding and implementing Large Language Models (LLMs) from scratch, including attention mechanisms, embeddings, and more.
