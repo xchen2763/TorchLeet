@@ -12,7 +12,6 @@
 </div>
 <br/>
 
-> [!WHY? ]
 > I struggled to grind for ML/AI interviews so I went back to the basics and created a list after careful research. 
 
 TorchLeet is broken into two sets of questions:
